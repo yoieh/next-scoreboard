@@ -1,7 +1,7 @@
 {
-  "name": "with-redux-saga",
+  "name": "next-scoreboard",
   "version": "1.0.0",
-  "license": "ISC",
+  "license": "",
   "scripts": {
     "dev": "node server.js",
     "next:dev": "next",
