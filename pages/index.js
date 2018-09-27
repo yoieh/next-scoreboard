@@ -6,19 +6,16 @@ import List from "../components/list";
 
 class Scoreboard extends React.Component {
   render() {
-    const { list } = this.props;
     return (
       <Layout>
         <h2 className="bg-danger">List</h2>
-        <List list={list} />
+        <List />
       </Layout>
     );
   }
 }
 
-const mapStateToProps = (state, ownProps) => ({
-  list: state.menu.list
-});
+const mapStateToProps = (state, ownProps) => ({});
 
 const mapDispatchToProps = (dispatch, ownProps) => ({});
 

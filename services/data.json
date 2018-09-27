@@ -1,0 +1,4980 @@
+[
+  {
+    "id": 1,
+    "name": "OCTINOXATE and ZINC OXIDE",
+    "sold": 58,
+    "votes": 81,
+    "price": 59.3
+  },
+  {
+    "id": 2,
+    "name": "Metoclopramide",
+    "sold": 16,
+    "votes": 99,
+    "price": 73.79
+  },
+  {
+    "id": 3,
+    "name": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+    "sold": 35,
+    "votes": 89,
+    "price": 35.02
+  },
+  { "id": 4, "name": "DIMETHICONE", "sold": 69, "votes": 35, "price": 56.36 },
+  { "id": 5, "name": "ribavirin", "sold": 57, "votes": 22, "price": 20.09 },
+  {
+    "id": 6,
+    "name": "Octinoxate, Octisalate, and Oxybenzone",
+    "sold": 18,
+    "votes": 69,
+    "price": 43.5
+  },
+  {
+    "id": 7,
+    "name": "Hydrocodone Bitatrate and Acetaminophen",
+    "sold": 74,
+    "votes": 80,
+    "price": 41.54
+  },
+  {
+    "id": 8,
+    "name": "Hydromorphone Hydrochloride",
+    "sold": 80,
+    "votes": 100,
+    "price": 40.89
+  },
+  {
+    "id": 9,
+    "name": "levalbuterol hydrochloride",
+    "sold": 94,
+    "votes": 43,
+    "price": 83.48
+  },
+  { "id": 10, "name": "Oxygen", "sold": 11, "votes": 78, "price": 67.2 },
+  { "id": 11, "name": "Triclosan", "sold": 55, "votes": 16, "price": 29.34 },
+  { "id": 12, "name": "clotrimazole", "sold": 22, "votes": 75, "price": 53.22 },
+  {
+    "id": 13,
+    "name": "CHITOSAN MEDIUM MOLECULAR WEIGHT (200-800 MPA.S)",
+    "sold": 4,
+    "votes": 93,
+    "price": 31.42
+  },
+  {
+    "id": 14,
+    "name": "Spironolactone",
+    "sold": 33,
+    "votes": 66,
+    "price": 89.71
+  },
+  {
+    "id": 15,
+    "name": "famotidine, calcium carbonate and magnesium hydroxide",
+    "sold": 21,
+    "votes": 4,
+    "price": 88.89
+  },
+  { "id": 16, "name": "Oxygen", "sold": 48, "votes": 24, "price": 28.32 },
+  {
+    "id": 17,
+    "name": "mineral oil, petrolatum, phenylephrine HCl",
+    "sold": 98,
+    "price": 24.91
+  },
+  {
+    "id": 18,
+    "name": "Prochlorperazine Maleate",
+    "sold": 89,
+    "votes": 53,
+    "price": 42.03
+  },
+  {
+    "id": 19,
+    "name": "Benzalkonium Chloride",
+    "sold": 65,
+    "votes": 57,
+    "price": 40.04
+  },
+  {
+    "id": 20,
+    "name": "bupropion hydrochloride",
+    "sold": 90,
+    "votes": 100,
+    "price": 35.73
+  },
+  {
+    "id": 21,
+    "name": "Anti-bacterial Hand Wash",
+    "sold": 74,
+    "votes": 6,
+    "price": 83.96
+  },
+  { "id": 22, "name": "Octinoxate", "sold": 70, "votes": 26, "price": 26.77 },
+  {
+    "id": 23,
+    "name": "pantoprazole sodium",
+    "sold": 0,
+    "votes": 57,
+    "price": 30.93
+  },
+  {
+    "id": 24,
+    "name": "calcium carbonate",
+    "sold": 56,
+    "votes": 56,
+    "price": 80.84
+  },
+  {
+    "id": 25,
+    "name": "Dextromethorphan Hydrobromide, Doxylamine Succinate",
+    "sold": 33,
+    "votes": 64,
+    "price": 63.64
+  },
+  {
+    "id": 26,
+    "name": "OCTINOXATE,TITANIUM DIOXIDE,OXYBENZONE,AVOBENZONE",
+    "sold": 24,
+    "votes": 79,
+    "price": 38.74
+  },
+  { "id": 27, "name": "Dimethicone", "sold": 74, "votes": 14, "price": 85.71 },
+  {
+    "id": 28,
+    "name": "carbamazepine",
+    "sold": 35,
+    "votes": 43,
+    "price": 28.31
+  },
+  {
+    "id": 29,
+    "name": "metformin hydrochloride",
+    "sold": 47,
+    "votes": 27,
+    "price": 70.44
+  },
+  { "id": 30, "name": "TRICLOSAN", "sold": 81, "votes": 92, "price": 73.99 },
+  {
+    "id": 31,
+    "name": "anti-interleukin-1.alpha. immunoglobulin g rabbit, ascorbic acid, metenkefalin, ersofermin, bos taurus cartilage, sus scrofa cartilage, pork collagen, bos taurus red blood cell, sus scrofa red blood cell, interleukin-3, interleukin-3, beef liver, pork liver, beef, pork, bos taurus tendon, sus scrofa tendon, cetermin",
+    "sold": 42,
+    "votes": 78,
+    "price": 54.2
+  },
+  {
+    "id": 32,
+    "name": "Desipramine Hydrochloride",
+    "sold": 23,
+    "votes": 92,
+    "price": 95.41
+  },
+  {
+    "id": 33,
+    "name": "Montelukast Sodium",
+    "sold": 97,
+    "votes": 83,
+    "price": 31.19
+  },
+  { "id": 34, "name": "Ciprofloxacin", "sold": 47, "votes": 51, "price": 46.0 },
+  {
+    "id": 35,
+    "name": "Aluminum hydroxide, Magnesium hydroxide, Simethicone",
+    "sold": 29,
+    "votes": 81,
+    "price": 45.24
+  },
+  {
+    "id": 36,
+    "name": "Ethylhexyl methoxycinnamate, Ethylhexy Salicate, Butyl Methoxydibezoylmethane",
+    "sold": 21,
+    "votes": 33,
+    "price": 41.35
+  },
+  { "id": 37, "name": "Erythromycin", "sold": 27, "votes": 64, "price": 62.42 },
+  {
+    "id": 38,
+    "name": "Pantoprazole Sodium",
+    "sold": 69,
+    "votes": 51,
+    "price": 42.79
+  },
+  {
+    "id": 39,
+    "name": "Enalapril Maleate",
+    "sold": 16,
+    "votes": 91,
+    "price": 87.35
+  },
+  { "id": 40, "name": "Nateglinide", "sold": 42, "votes": 61, "price": 29.86 },
+  { "id": 41, "name": "CHLOROXYLENOL", "sold": 74, "votes": 60, "price": 86.7 },
+  { "id": 42, "name": "Wheat Smut", "sold": 50, "votes": 24, "price": 75.37 },
+  { "id": 43, "name": "Benzocaine", "sold": 45, "votes": 100, "price": 59.89 },
+  {
+    "id": 44,
+    "name": "SAMBUCUS NIGRA FLOWER CALENDULA OFFICINALIS FLOWER PINE NEEDLE OIL (PINUS SYLVESTRIS)",
+    "sold": 96,
+    "votes": 65,
+    "price": 92.14
+  },
+  {
+    "id": 45,
+    "name": "Acetazolamide",
+    "sold": 74,
+    "votes": 62,
+    "price": 73.32
+  },
+  {
+    "id": 46,
+    "name": "Cetirizine Hydrochloride",
+    "sold": 85,
+    "votes": 47,
+    "price": 75.77
+  },
+  { "id": 47, "name": "Risperidone", "sold": 56, "votes": 94, "price": 48.79 },
+  {
+    "id": 48,
+    "name": "Avena Sativa, Chlorophytum Borivilianum, Nuphar Luteum, Punica Granatum, Spermidine, Spermine, Damiana, Selenium Metallicum, Staphysagria, Thuja Occidentalis",
+    "sold": 59,
+    "votes": 7,
+    "price": 79.27
+  },
+  { "id": 49, "name": "Gabapentin", "sold": 88, "votes": 18, "price": 79.89 },
+  { "id": 50, "name": "glyburide", "sold": 67, "votes": 31, "price": 27.11 },
+  {
+    "id": 51,
+    "name": "barium sulfate",
+    "sold": 73,
+    "votes": 64,
+    "price": 83.81
+  },
+  { "id": 52, "name": "Risperidone", "sold": 74, "votes": 62, "price": 84.27 },
+  {
+    "id": 53,
+    "name": "oxycodone hydrochloride and acetaminophen",
+    "sold": 27,
+    "votes": 17,
+    "price": 76.71
+  },
+  {
+    "id": 54,
+    "name": "Hydroxyzine Hydrochloride",
+    "sold": 91,
+    "votes": 5,
+    "price": 42.09
+  },
+  { "id": 55, "name": "indomethacin", "sold": 56, "votes": 44, "price": 83.94 },
+  { "id": 56, "name": "Glycerin", "sold": 59, "votes": 62, "price": 55.49 },
+  {
+    "id": 57,
+    "name": "METHYL UNDECENOYL LEUCINATE",
+    "sold": 79,
+    "votes": 16,
+    "price": 51.01
+  },
+  {
+    "id": 58,
+    "name": "BENZETHONIUM CHLORIDE",
+    "sold": 68,
+    "votes": 29,
+    "price": 58.14
+  },
+  {
+    "id": 59,
+    "name": "Ranitidine Hydrochloride",
+    "sold": 56,
+    "votes": 98,
+    "price": 70.59
+  },
+  {
+    "id": 60,
+    "name": "PHENYLEPHRINE HYDROCHLORIDE",
+    "sold": 4,
+    "votes": 21,
+    "price": 44.87
+  },
+  { "id": 61, "name": "Nabumetone", "sold": 33, "votes": 42, "price": 47.56 },
+  {
+    "id": 62,
+    "name": "FEXOFENADINE HYDROCHLORIDE AND PSEUDOEPHEDRINE HYDROCHLORIDE",
+    "sold": 41,
+    "votes": 86,
+    "price": 40.97
+  },
+  { "id": 63, "name": "Black Olive", "sold": 78, "votes": 63, "price": 30.48 },
+  { "id": 64, "name": "Broncofin", "sold": 49, "votes": 68, "price": 74.39 },
+  { "id": 65, "name": "CEFACLOR", "sold": 54, "votes": 18, "price": 23.62 },
+  { "id": 66, "name": "Sennosides", "sold": 56, "votes": 30, "price": 97.58 },
+  {
+    "id": 67,
+    "name": "Pulsatilla Tormentilla",
+    "sold": 76,
+    "votes": 46,
+    "price": 90.28
+  },
+  {
+    "id": 68,
+    "name": "Zinc Oxide, Octinoxate, Octisalate",
+    "sold": 71,
+    "votes": 99,
+    "price": 21.02
+  },
+  {
+    "id": 69,
+    "name": "Promethazine Hydrochloride and Codeine Phosphate",
+    "sold": 48,
+    "votes": 10,
+    "price": 58.69
+  },
+  {
+    "id": 70,
+    "name": "Acetaminophen,Phenylephrine HCl, Chlorpheniramine maleate",
+    "sold": 18,
+    "votes": 62,
+    "price": 64.86
+  },
+  { "id": 71, "name": "PREGABALIN", "sold": 50, "votes": 51, "price": 70.09 },
+  {
+    "id": 72,
+    "name": "Pramoxine HCl, Zinc Oxide, Calamine",
+    "sold": 3,
+    "votes": 41,
+    "price": 41.49
+  },
+  {
+    "id": 73,
+    "name": "BUPIVACAINE HYDROCHLORIDE",
+    "sold": 49,
+    "votes": 67,
+    "price": 65.53
+  },
+  { "id": 74, "name": "Amoxicillin", "sold": 97, "votes": 26, "price": 35.18 },
+  {
+    "id": 75,
+    "name": "OCTINOXATE, OCTISALATE, ZINC OXIDE, TITANIUM DIOXIDE",
+    "sold": 12,
+    "votes": 42,
+    "price": 21.65
+  },
+  { "id": 76, "name": "Zolmitriptan", "sold": 85, "votes": 28, "price": 95.69 },
+  {
+    "id": 77,
+    "name": "CYANOCOBALAMIN",
+    "sold": 96,
+    "votes": 11,
+    "price": 82.81
+  },
+  {
+    "id": 78,
+    "name": "AVOBENZONE, HOMOSALATE, OCTOCRYLENE, OXYBENZONE",
+    "sold": 83,
+    "votes": 40,
+    "price": 82.01
+  },
+  { "id": 79, "name": "Labetalol HCl", "sold": 18, "price": 65.46 },
+  {
+    "id": 80,
+    "name": "Aluminum Zirconium Tetrachlorohydrex GLY",
+    "sold": 16,
+    "votes": 83,
+    "price": 94.5
+  },
+  {
+    "id": 81,
+    "name": "Orange Pollen",
+    "sold": 31,
+    "votes": 42,
+    "price": 50.82
+  },
+  {
+    "id": 82,
+    "name": "Heparin Sodium",
+    "sold": 45,
+    "votes": 37,
+    "price": 42.91
+  },
+  {
+    "id": 83,
+    "name": "Hypromellose 2.5%",
+    "sold": 64,
+    "votes": 31,
+    "price": 42.78
+  },
+  {
+    "id": 84,
+    "name": "ZINC ACETATE ANHYDROUS and ZINC GLUCONATE",
+    "sold": 91,
+    "votes": 99,
+    "price": 98.4
+  },
+  {
+    "id": 85,
+    "name": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+    "sold": 28,
+    "votes": 98,
+    "price": 32.71
+  },
+  {
+    "id": 86,
+    "name": "Aluminum Zirconium Trichlorohydrex Gly",
+    "sold": 36,
+    "votes": 15,
+    "price": 29.9
+  },
+  {
+    "id": 87,
+    "name": "Belladonna , Conium maculatum, Dulcamara, Ferrum phosphoricum, Hepar sulphuris calcareum, Kali bichromicum, mercurius solubilis, Pulsatilla, Silicea, Chamonilla",
+    "sold": 56,
+    "votes": 44,
+    "price": 43.29
+  },
+  { "id": 88, "name": "Ketoprofen", "sold": 7, "votes": 20, "price": 79.94 },
+  { "id": 89, "name": "Octinoxate", "sold": 83, "votes": 95, "price": 44.23 },
+  { "id": 90, "name": "Ethyl Alcohol", "sold": 38, "votes": 79, "price": 40.5 },
+  {
+    "id": 91,
+    "name": "Fluoxetine Hydrochloride",
+    "sold": 77,
+    "votes": 60,
+    "price": 38.13
+  },
+  {
+    "id": 92,
+    "name": "AMITRIPTYLINE HYDROCHLORIDE",
+    "sold": 80,
+    "votes": 80,
+    "price": 84.31
+  },
+  {
+    "id": 93,
+    "name": "Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",
+    "sold": 94,
+    "votes": 2,
+    "price": 45.3
+  },
+  {
+    "id": 94,
+    "name": "Desmopressin acetate",
+    "sold": 51,
+    "votes": 39,
+    "price": 97.42
+  },
+  { "id": 95, "name": "octinoxate, zinc oxide", "sold": 100, "price": 53.52 },
+  {
+    "id": 96,
+    "name": "NAJA NAJA VENOM",
+    "sold": 74,
+    "votes": 98,
+    "price": 48.69
+  },
+  { "id": 97, "name": "Sulphur", "sold": 22, "votes": 26, "price": 83.79 },
+  { "id": 98, "name": "levofloxacin", "sold": 47, "votes": 48, "price": 42.13 },
+  {
+    "id": 99,
+    "name": "Titanium Dioxide and Zinc Oxide",
+    "sold": 40,
+    "votes": 68,
+    "price": 37.54
+  },
+  {
+    "id": 100,
+    "name": "OCTINOXATE, TITANIUM DIOXIDE",
+    "sold": 75,
+    "votes": 37,
+    "price": 50.09
+  },
+  {
+    "id": 101,
+    "name": "Zolpidem Tartrate",
+    "sold": 95,
+    "votes": 48,
+    "price": 70.38
+  },
+  { "id": 102, "name": "Menthol", "sold": 20, "price": 24.08 },
+  {
+    "id": 103,
+    "name": "Benzalkonium chloride",
+    "sold": 59,
+    "votes": 58,
+    "price": 83.41
+  },
+  { "id": 104, "name": "Capsaicin", "sold": 9, "votes": 32, "price": 97.53 },
+  { "id": 105, "name": "Alcohol", "sold": 25, "votes": 84, "price": 64.62 },
+  {
+    "id": 106,
+    "name": "Candesartan cilexetil Hydrochlorothiazide",
+    "sold": 35,
+    "votes": 59,
+    "price": 51.32
+  },
+  {
+    "id": 107,
+    "name": "Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",
+    "sold": 74,
+    "votes": 30,
+    "price": 99.08
+  },
+  {
+    "id": 108,
+    "name": "levothyroxine sodium",
+    "sold": 32,
+    "votes": 12,
+    "price": 57.71
+  },
+  {
+    "id": 109,
+    "name": "Titanium Dioxide, Ethylhexyl Methoxycinnamate, Benzophenone-3",
+    "sold": 15,
+    "votes": 75,
+    "price": 98.16
+  },
+  {
+    "id": 110,
+    "name": "Bupropion Hydrochloride",
+    "sold": 96,
+    "votes": 67,
+    "price": 57.91
+  },
+  {
+    "id": 111,
+    "name": "Titanium Dioxide, OCTINOXATE",
+    "sold": 11,
+    "votes": 71,
+    "price": 70.98
+  },
+  {
+    "id": 112,
+    "name": "Duloxetine Hydrochloride",
+    "sold": 55,
+    "votes": 47,
+    "price": 47.24
+  },
+  { "id": 113, "name": "Ioxilan Injection", "votes": 67, "price": 48.74 },
+  { "id": 114, "name": "Nicotine Polacrilex", "sold": 34, "price": 98.35 },
+  {
+    "id": 115,
+    "name": "proteus vulgaris",
+    "sold": 20,
+    "votes": 73,
+    "price": 21.93
+  },
+  { "id": 116, "name": "Aspirin", "sold": 100, "votes": 43, "price": 52.03 },
+  {
+    "id": 117,
+    "name": "ZOLPIDEM TARTRATE",
+    "sold": 43,
+    "votes": 22,
+    "price": 83.19
+  },
+  { "id": 118, "name": "glipizide", "sold": 34, "votes": 78, "price": 47.97 },
+  { "id": 119, "name": "Oxygen", "sold": 27, "votes": 88, "price": 54.17 },
+  {
+    "id": 120,
+    "name": "PHENYTOIN SODIUM",
+    "sold": 81,
+    "votes": 26,
+    "price": 94.7
+  },
+  {
+    "id": 121,
+    "name": "Acetaminophen, Diphenhydramine HCl",
+    "sold": 83,
+    "votes": 68,
+    "price": 34.21
+  },
+  {
+    "id": 122,
+    "name": "Baptisia tinctoria, Berberis vulgaris, Echinacea, Glycyrrhiza glabra, Hydrastis canadensis, Lappa major, Phytolacca decandra, Rhamnus frangula Lappa major, Phytolacca decandra, Rhamnus frangula, Rhamn",
+    "sold": 99,
+    "votes": 96,
+    "price": 28.64
+  },
+  { "id": 123, "name": "irbesartan", "sold": 96, "votes": 91, "price": 68.86 },
+  { "id": 124, "name": "Dapsone", "sold": 60, "votes": 11, "price": 47.22 },
+  {
+    "id": 125,
+    "name": "Ciprofloxacin",
+    "sold": 83,
+    "votes": 26,
+    "price": 68.67
+  },
+  {
+    "id": 126,
+    "name": "BENZALKONIUM CHLORIDE",
+    "sold": 6,
+    "votes": 16,
+    "price": 79.41
+  },
+  {
+    "id": 127,
+    "name": "Pecan Pollen",
+    "sold": 32,
+    "votes": 63,
+    "price": 37.69
+  },
+  {
+    "id": 128,
+    "name": "Benzoyl Peroxide",
+    "sold": 7,
+    "votes": 49,
+    "price": 70.65
+  },
+  {
+    "id": 129,
+    "name": "Doxycycline Hyclate",
+    "sold": 3,
+    "votes": 26,
+    "price": 26.12
+  },
+  {
+    "id": 130,
+    "name": "Amoxicillin and Clavulanate Potassium",
+    "sold": 24,
+    "votes": 44,
+    "price": 54.13
+  },
+  {
+    "id": 131,
+    "name": "Doxycycline Hyclate",
+    "sold": 83,
+    "votes": 100,
+    "price": 80.12
+  },
+  {
+    "id": 132,
+    "name": "cocoa butter, phenylephrine hcl",
+    "sold": 2,
+    "votes": 34,
+    "price": 42.57
+  },
+  {
+    "id": 133,
+    "name": "Warfarin Sodium",
+    "sold": 38,
+    "votes": 49,
+    "price": 86.22
+  },
+  {
+    "id": 134,
+    "name": "Lansoprazole",
+    "sold": 40,
+    "votes": 60,
+    "price": 45.08
+  },
+  { "id": 135, "name": "Gemfibrozil", "sold": 14, "votes": 73, "price": 86.99 },
+  {
+    "id": 136,
+    "name": "METOCLOPRAMIDE HYDROCHLORIDE",
+    "sold": 12,
+    "votes": 27,
+    "price": 61.68
+  },
+  {
+    "id": 137,
+    "name": "Diphenoxylate Hydrochloride and Atropine Sulfate",
+    "sold": 94,
+    "votes": 49,
+    "price": 46.94
+  },
+  { "id": 138, "name": "Alfalfa", "sold": 55, "votes": 87, "price": 35.62 },
+  {
+    "id": 139,
+    "name": "Octinoxate and Oxybenzone",
+    "sold": 43,
+    "votes": 71,
+    "price": 66.2
+  },
+  {
+    "id": 140,
+    "name": "Magnesium citrate",
+    "sold": 67,
+    "votes": 16,
+    "price": 70.68
+  },
+  {
+    "id": 141,
+    "name": "METHYL SALICYLATE MENTHOL CAPSAICIN LIDOCAINE",
+    "sold": 90,
+    "votes": 64,
+    "price": 87.65
+  },
+  { "id": 142, "name": "Triclosan", "sold": 69, "price": 50.24 },
+  {
+    "id": 143,
+    "name": "Brompheniramine maleate and Phenylephrine hydrochloride",
+    "sold": 11,
+    "votes": 60,
+    "price": 30.38
+  },
+  {
+    "id": 144,
+    "name": "Sulfamethoxazole and Trimethoprim",
+    "sold": 71,
+    "votes": 7,
+    "price": 98.56
+  },
+  {
+    "id": 145,
+    "name": "Levico Prunus",
+    "sold": 81,
+    "votes": 56,
+    "price": 86.01
+  },
+  {
+    "id": 146,
+    "name": "Lidocaine Hydrochloride, Benzalkonium Chloride",
+    "sold": 15,
+    "votes": 25,
+    "price": 50.97
+  },
+  { "id": 147, "name": "Gemfibrozil", "sold": 95, "votes": 42, "price": 30.21 },
+  { "id": 148, "name": "meloxicam", "sold": 9, "votes": 93, "price": 65.71 },
+  {
+    "id": 149,
+    "name": "Avobenzone and Homosalate and Octinoxate and Octisalate and Octocrylene",
+    "sold": 33,
+    "votes": 38,
+    "price": 32.67
+  },
+  { "id": 150, "name": "Caffine", "sold": 23, "votes": 92, "price": 83.2 },
+  {
+    "id": 151,
+    "name": "Ensulizole, Sulisobenzone",
+    "sold": 11,
+    "votes": 53,
+    "price": 35.06
+  },
+  {
+    "id": 152,
+    "name": "Avobenzone, Homosalate, Octisalate, Octocrylene and Oxybenzone",
+    "sold": 14,
+    "votes": 81,
+    "price": 99.14
+  },
+  { "id": 153, "name": "Prednisone", "sold": 71, "votes": 96, "price": 66.99 },
+  {
+    "id": 154,
+    "name": "Chloroxylenol",
+    "sold": 91,
+    "votes": 32,
+    "price": 82.67
+  },
+  {
+    "id": 155,
+    "name": "Starch, Corn",
+    "sold": 61,
+    "votes": 33,
+    "price": 99.21
+  },
+  {
+    "id": 156,
+    "name": "Sheep Sorrel",
+    "sold": 13,
+    "votes": 37,
+    "price": 55.44
+  },
+  { "id": 157, "name": "Sennosides", "sold": 100, "votes": 22, "price": 99.19 },
+  {
+    "id": 158,
+    "name": "METHADONE HYDROCHLORIDE",
+    "sold": 60,
+    "votes": 5,
+    "price": 66.06
+  },
+  {
+    "id": 159,
+    "name": "Hydroquinone",
+    "sold": 96,
+    "votes": 60,
+    "price": 41.94
+  },
+  {
+    "id": 160,
+    "name": "AcetaZOLAMIDE",
+    "sold": 6,
+    "votes": 49,
+    "price": 45.41
+  },
+  { "id": 161, "name": "isotretinoin", "sold": 92, "price": 54.39 },
+  {
+    "id": 162,
+    "name": "Pantoprazole Sodium",
+    "sold": 88,
+    "votes": 49,
+    "price": 21.33
+  },
+  {
+    "id": 163,
+    "name": "ANTIMONY TRISULFIDE, DIEFFENBACHIA SEGUINE,CADMIUM SULFATE,STRYCHNOS IGNATII SEED,LOBELIA INFLATA,STRYCHNOS NUX-VOMICA SEED, TOBACCO LEAF.",
+    "sold": 36,
+    "votes": 100,
+    "price": 62.17
+  },
+  {
+    "id": 164,
+    "name": "White Hickory",
+    "sold": 88,
+    "votes": 35,
+    "price": 54.69
+  },
+  { "id": 165, "name": "Simvastatin", "sold": 77, "votes": 96, "price": 21.02 },
+  {
+    "id": 166,
+    "name": "BENZALKONIUM CHLORIDE",
+    "sold": 2,
+    "votes": 94,
+    "price": 80.07
+  },
+  { "id": 167, "name": "OXALIPLATIN", "sold": 44, "votes": 78, "price": 53.78 },
+  {
+    "id": 168,
+    "name": "LYCOPODIUM CLAVATUM SPORE",
+    "sold": 15,
+    "votes": 69,
+    "price": 35.24
+  },
+  {
+    "id": 169,
+    "name": "fenoprofen calcium",
+    "sold": 81,
+    "votes": 4,
+    "price": 44.48
+  },
+  { "id": 170, "name": "Hydrochlorothiazide", "sold": 48, "price": 57.02 },
+  { "id": 171, "name": "simethicone", "sold": 34, "votes": 96, "price": 83.48 },
+  {
+    "id": 172,
+    "name": "diphenhydramine hydrochloride and zinc acetate",
+    "sold": 71,
+    "votes": 91,
+    "price": 81.31
+  },
+  {
+    "id": 173,
+    "name": "AVOBENZONE, HOMOSALATE, OCTINOXATE, OCTISALATE, OCTOCRYLENE, OXYBENZONE",
+    "sold": 95,
+    "votes": 27,
+    "price": 62.85
+  },
+  {
+    "id": 174,
+    "name": "cefazolin sodium",
+    "sold": 72,
+    "votes": 2,
+    "price": 64.78
+  },
+  {
+    "id": 175,
+    "name": "SODIUM FLUORIDE",
+    "sold": 83,
+    "votes": 73,
+    "price": 54.01
+  },
+  { "id": 176, "name": "sitagliptin", "sold": 29, "votes": 92, "price": 53.74 },
+  {
+    "id": 177,
+    "name": "benzethonium chloride and benzocaine",
+    "sold": 52,
+    "votes": 60,
+    "price": 78.91
+  },
+  {
+    "id": 178,
+    "name": "OCTINOXATE and TITANIUM DIOXIDE",
+    "sold": 78,
+    "price": 25.38
+  },
+  {
+    "id": 179,
+    "name": "methocarbamol",
+    "sold": 9,
+    "votes": 25,
+    "price": 52.27
+  },
+  { "id": 180, "name": "temazepam", "sold": 71, "votes": 70, "price": 30.21 },
+  {
+    "id": 181,
+    "name": "Avobenzone, Octisalate, Octocrylene, and Oxybenzone",
+    "sold": 49,
+    "votes": 100,
+    "price": 68.07
+  },
+  { "id": 182, "name": "Ibuprofen", "sold": 98, "votes": 30, "price": 78.53 },
+  {
+    "id": 183,
+    "name": "PSYLLIUM HUSK",
+    "sold": 31,
+    "votes": 47,
+    "price": 28.59
+  },
+  { "id": 184, "name": "Amoxicillin", "sold": 6, "votes": 40, "price": 90.1 },
+  {
+    "id": 185,
+    "name": "Echinacea,Baptisia tinctoria, Hydrastis canadensis, Myrrha, Nasturtium aquaticum, Phytolacca decandra, Trigonella foenum-graecum, Zone 4 Tree, Zone 4 Weed, Zone 4 Grass",
+    "sold": 37,
+    "price": 50.26
+  },
+  {
+    "id": 186,
+    "name": "Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate, and Amphetamine Sulfate",
+    "sold": 77,
+    "votes": 64,
+    "price": 54.01
+  },
+  {
+    "id": 187,
+    "name": "Salicylic Acid",
+    "sold": 48,
+    "votes": 25,
+    "price": 96.83
+  },
+  {
+    "id": 188,
+    "name": "CYCLOBENZAPRINE HYDROCHLORIDE",
+    "sold": 44,
+    "votes": 86,
+    "price": 64.45
+  },
+  { "id": 189, "name": "Nystatin", "sold": 21, "votes": 99, "price": 45.7 },
+  { "id": 190, "name": "Iodixanol", "sold": 92, "votes": 76, "price": 24.09 },
+  {
+    "id": 191,
+    "name": "TITANIUM DIOXIDE",
+    "sold": 47,
+    "votes": 24,
+    "price": 57.14
+  },
+  {
+    "id": 192,
+    "name": "Arsenicum Album, Coffea Cruda, Kali Carbonicum, Magnesia Carbonica, Nux Vomica, Passiflora Incarnata, Sepia",
+    "sold": 45,
+    "price": 67.96
+  },
+  {
+    "id": 193,
+    "name": "ENALAPRIL MALEATE",
+    "sold": 53,
+    "votes": 18,
+    "price": 24.05
+  },
+  {
+    "id": 194,
+    "name": "Nicotine Polacrilex",
+    "sold": 71,
+    "votes": 51,
+    "price": 73.79
+  },
+  { "id": 195, "name": "Duloxetine Hydrochloride", "sold": 56, "price": 27.99 },
+  { "id": 196, "name": "Furosemide", "sold": 51, "price": 55.94 },
+  {
+    "id": 197,
+    "name": "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY",
+    "sold": 44,
+    "votes": 72,
+    "price": 74.72
+  },
+  { "id": 198, "name": "Alcohol", "sold": 3, "votes": 94, "price": 41.58 },
+  {
+    "id": 199,
+    "name": "Diclofenac Potassium",
+    "sold": 100,
+    "votes": 2,
+    "price": 80.94
+  },
+  { "id": 200, "name": "Egg Yolk", "sold": 80, "votes": 5, "price": 62.61 },
+  { "id": 201, "name": "Cinnamon", "sold": 8, "votes": 73, "price": 22.22 },
+  { "id": 202, "name": "tretinoin", "sold": 41, "votes": 6, "price": 25.08 },
+  { "id": 203, "name": "GLYCERIN", "sold": 72, "votes": 73, "price": 82.5 },
+  { "id": 204, "name": "Celecoxib", "sold": 68, "votes": 88, "price": 96.13 },
+  {
+    "id": 205,
+    "name": "Sodium Fluoride",
+    "sold": 6,
+    "votes": 76,
+    "price": 32.2
+  },
+  { "id": 206, "name": "ofloxacin", "sold": 15, "votes": 83, "price": 88.98 },
+  { "id": 207, "name": "Clobetasol Propionate", "votes": 2, "price": 69.02 },
+  {
+    "id": 208,
+    "name": "Octinoxate, Octisalate, Zinc Oxide",
+    "sold": 22,
+    "votes": 52,
+    "price": 62.26
+  },
+  {
+    "id": 209,
+    "name": "Avobenzone, Octinoxate",
+    "sold": 33,
+    "votes": 88,
+    "price": 23.32
+  },
+  {
+    "id": 210,
+    "name": "Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",
+    "sold": 7,
+    "votes": 27,
+    "price": 49.94
+  },
+  {
+    "id": 211,
+    "name": "acetaminophen, dextromethorphan hydrobromide, guaifenesin, and phenylephrine hydrochloride",
+    "sold": 69,
+    "votes": 27,
+    "price": 75.12
+  },
+  {
+    "id": 212,
+    "name": "AVOBENZONE, OCTOCRYLENE, OXYBENZONE",
+    "sold": 8,
+    "votes": 84,
+    "price": 96.14
+  },
+  {
+    "id": 213,
+    "name": "diphenhydramine citrate and ibuprofen",
+    "sold": 81,
+    "votes": 16,
+    "price": 91.01
+  },
+  {
+    "id": 214,
+    "name": "penicillin G benzathine",
+    "sold": 86,
+    "votes": 25,
+    "price": 94.43
+  },
+  {
+    "id": 215,
+    "name": "amoxicillin and clavulanate potassium",
+    "sold": 90,
+    "votes": 75,
+    "price": 68.81
+  },
+  { "id": 216, "name": "Galantamine", "sold": 53, "votes": 57, "price": 79.34 },
+  {
+    "id": 217,
+    "name": "Loperamide Hydrochloride",
+    "sold": 80,
+    "votes": 72,
+    "price": 42.86
+  },
+  { "id": 218, "name": "SPIGELIA", "sold": 8, "votes": 92, "price": 56.35 },
+  {
+    "id": 219,
+    "name": "chlorhexidine gluconate and isopropyl alcohol",
+    "sold": 3,
+    "votes": 100,
+    "price": 92.14
+  },
+  { "id": 220, "name": "ETHYL ALCOHOL", "sold": 5, "votes": 8, "price": 53.61 },
+  {
+    "id": 221,
+    "name": "ropinirole hydrochloride",
+    "sold": 5,
+    "votes": 87,
+    "price": 73.94
+  },
+  {
+    "id": 222,
+    "name": "Acetaminophen",
+    "sold": 26,
+    "votes": 74,
+    "price": 98.67
+  },
+  {
+    "id": 223,
+    "name": "avena sativa pollen",
+    "sold": 29,
+    "votes": 8,
+    "price": 58.27
+  },
+  { "id": 224, "name": "clozapine", "sold": 96, "votes": 20, "price": 98.69 },
+  {
+    "id": 225,
+    "name": "honey bee hymenoptera venom multidose",
+    "sold": 0,
+    "votes": 59,
+    "price": 20.53
+  },
+  { "id": 226, "name": "Ranitidine", "sold": 90, "votes": 88, "price": 74.93 },
+  { "id": 227, "name": "Ranitidine", "sold": 73, "votes": 20, "price": 83.88 },
+  { "id": 228, "name": "Sulindac", "sold": 66, "votes": 46, "price": 89.52 },
+  {
+    "id": 229,
+    "name": "Diclofenac Sodium",
+    "sold": 26,
+    "votes": 84,
+    "price": 67.98
+  },
+  {
+    "id": 230,
+    "name": "Miconazole nitrate",
+    "sold": 83,
+    "votes": 68,
+    "price": 51.79
+  },
+  {
+    "id": 231,
+    "name": "Sodium Fluoride and Potassium Nitrate",
+    "sold": 4,
+    "votes": 64,
+    "price": 99.34
+  },
+  {
+    "id": 232,
+    "name": "Dextromethorphan HBr, Guaifenesin",
+    "sold": 3,
+    "votes": 62,
+    "price": 62.86
+  },
+  {
+    "id": 233,
+    "name": "Coagulation Factor IX (Recombinant), Fc Fusion Protein",
+    "sold": 58,
+    "votes": 15,
+    "price": 75.31
+  },
+  {
+    "id": 234,
+    "name": "Brompheniramine Maleate, Dextromethorphan Hydrobromide and Phenylephrine Hydrochloride",
+    "sold": 39,
+    "votes": 94,
+    "price": 85.83
+  },
+  { "id": 235, "name": "Digoxin", "sold": 86, "votes": 11, "price": 99.43 },
+  {
+    "id": 236,
+    "name": "Octinoxate and Avobenzone",
+    "sold": 95,
+    "votes": 2,
+    "price": 80.36
+  },
+  {
+    "id": 237,
+    "name": "Doxycycline Hyclate",
+    "sold": 52,
+    "votes": 94,
+    "price": 61.66
+  },
+  {
+    "id": 238,
+    "name": "fluocinolone acetonide",
+    "sold": 23,
+    "votes": 50,
+    "price": 34.32
+  },
+  { "id": 239, "name": "efavirenz", "sold": 60, "votes": 50, "price": 87.98 },
+  {
+    "id": 240,
+    "name": "atorvastatin calcium",
+    "sold": 61,
+    "votes": 70,
+    "price": 72.25
+  },
+  { "id": 241, "name": "Topiramate", "sold": 77, "votes": 80, "price": 50.37 },
+  {
+    "id": 242,
+    "name": "HOMOSALATE, OCTISALATE, AVOBENZONE, and OCTOCRYLENE",
+    "sold": 17,
+    "votes": 13,
+    "price": 95.64
+  },
+  { "id": 243, "name": "Triclosan", "votes": 84, "price": 46.29 },
+  {
+    "id": 244,
+    "name": "Hydrocodone Bitartrate and Acetaminophen",
+    "sold": 77,
+    "price": 61.11
+  },
+  {
+    "id": 245,
+    "name": "Orphenadrine Citrate",
+    "sold": 36,
+    "votes": 62,
+    "price": 79.91
+  },
+  {
+    "id": 246,
+    "name": "Amitriptyline Hydrochloride",
+    "sold": 78,
+    "votes": 21,
+    "price": 52.17
+  },
+  {
+    "id": 247,
+    "name": "DOCUSATE SODIUM",
+    "sold": 41,
+    "votes": 93,
+    "price": 21.27
+  },
+  {
+    "id": 248,
+    "name": "Quetiapine fumarate",
+    "sold": 66,
+    "votes": 100,
+    "price": 72.36
+  },
+  { "id": 249, "name": "BACITRACIN", "sold": 6, "votes": 26, "price": 77.59 },
+  {
+    "id": 250,
+    "name": "Escherichia coli and Proteus vulgaris",
+    "sold": 95,
+    "votes": 22,
+    "price": 79.66
+  },
+  {
+    "id": 251,
+    "name": "BENZALKONIUM CHLORIDE",
+    "sold": 42,
+    "votes": 13,
+    "price": 50.56
+  },
+  {
+    "id": 252,
+    "name": "Nicotine Polacrilex",
+    "sold": 65,
+    "votes": 25,
+    "price": 61.11
+  },
+  { "id": 253, "name": "Alcohol", "sold": 95, "votes": 90, "price": 29.65 },
+  {
+    "id": 254,
+    "name": "morphine sulfate",
+    "sold": 57,
+    "votes": 58,
+    "price": 25.76
+  },
+  {
+    "id": 255,
+    "name": "mucor racemosus",
+    "sold": 86,
+    "votes": 10,
+    "price": 41.79
+  },
+  {
+    "id": 256,
+    "name": "Allantoin, Benzethonium Chloride",
+    "sold": 41,
+    "votes": 18,
+    "price": 32.51
+  },
+  {
+    "id": 257,
+    "name": "Ethyl Alcohol",
+    "sold": 40,
+    "votes": 55,
+    "price": 38.88
+  },
+  { "id": 258, "name": "PREGABALIN", "sold": 35, "votes": 57, "price": 24.82 },
+  {
+    "id": 259,
+    "name": "Pioglitazone",
+    "sold": 100,
+    "votes": 18,
+    "price": 61.07
+  },
+  {
+    "id": 260,
+    "name": "Nortriptyline Hydrochloride",
+    "sold": 90,
+    "votes": 19,
+    "price": 45.72
+  },
+  {
+    "id": 261,
+    "name": "POVIDONE-IODINE",
+    "sold": 92,
+    "votes": 11,
+    "price": 39.87
+  },
+  { "id": 262, "name": "PREGABALIN", "sold": 100, "votes": 74, "price": 54.85 },
+  { "id": 263, "name": "CAPSICUM", "sold": 93, "votes": 46, "price": 51.04 },
+  {
+    "id": 264,
+    "name": "Miconazole nitrate",
+    "sold": 38,
+    "votes": 55,
+    "price": 79.93
+  },
+  {
+    "id": 265,
+    "name": "Valsartan and Hydrochlorothiazide",
+    "sold": 61,
+    "votes": 35,
+    "price": 41.99
+  },
+  {
+    "id": 266,
+    "name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+    "sold": 19,
+    "votes": 59,
+    "price": 21.86
+  },
+  {
+    "id": 267,
+    "name": "Palm, Queen Cocos plumosa",
+    "sold": 53,
+    "votes": 94,
+    "price": 68.37
+  },
+  {
+    "id": 268,
+    "name": "Aluminum Zirconium Tetrachlorhydrex GLY",
+    "sold": 45,
+    "votes": 54,
+    "price": 61.06
+  },
+  {
+    "id": 269,
+    "name": "diatrizoate meglumine and diatrizoate sodium",
+    "sold": 26,
+    "votes": 84,
+    "price": 25.44
+  },
+  {
+    "id": 270,
+    "name": "Memantine Hydrochloride",
+    "sold": 91,
+    "votes": 71,
+    "price": 98.29
+  },
+  {
+    "id": 271,
+    "name": "Echinacea angustifolia, Hydrastis canadensis, Myrrha, Phytolacca decandra, Trigonella foenum-graecum, Lymph, Spleen, Bryonia alba, Bufo rana, Conium maculatum,",
+    "sold": 60,
+    "votes": 22,
+    "price": 23.33
+  },
+  { "id": 272, "name": "CEFOTAXIME", "sold": 63, "votes": 96, "price": 57.2 },
+  {
+    "id": 273,
+    "name": "Sodium monofluorophosphate",
+    "sold": 86,
+    "votes": 95,
+    "price": 77.69
+  },
+  { "id": 274, "name": "Ant, Fire Solenopsis Invicta", "price": 51.89 },
+  {
+    "id": 275,
+    "name": "Chelidonium majus, Glycyrrhiza glabra, Hydrastis canadensis, Nux moschata, Rheum officinale, Syzygium jambolanum, Taraxacum officinale, Zingiber officinale, Glandula suprarenalis suis, Hepar suis, Pan",
+    "sold": 19,
+    "votes": 97,
+    "price": 89.19
+  },
+  { "id": 276, "name": "RISPERIDONE", "sold": 89, "votes": 67, "price": 93.1 },
+  {
+    "id": 277,
+    "name": "Calendula Officinalis, Chamomilla, Crocus Sativus, Equisetum Arvense, Hamamelis Virginiana, Lamium Album, Millefolium, Plantago Major, Quercus Robur, Thlaspi Bursa-Pastoris, Trillium Pendulum, Urtica",
+    "sold": 26,
+    "votes": 96,
+    "price": 73.84
+  },
+  {
+    "id": 278,
+    "name": "OCTYL METHOXYCINNAMATE , OCTYL SALICYLATE, OXYBENZONE, AND AVOBENZONE",
+    "sold": 81,
+    "votes": 68,
+    "price": 89.37
+  },
+  { "id": 279, "name": "IBUPROFEN", "sold": 30, "votes": 22, "price": 79.07 },
+  {
+    "id": 280,
+    "name": "SALICYLIC ACID",
+    "sold": 49,
+    "votes": 54,
+    "price": 63.38
+  },
+  {
+    "id": 281,
+    "name": "Allergenic Extracts Alum Precipitated",
+    "sold": 34,
+    "votes": 53,
+    "price": 26.47
+  },
+  {
+    "id": 282,
+    "name": "Octinoxate and Titanium dioxide",
+    "sold": 55,
+    "votes": 92,
+    "price": 75.0
+  },
+  {
+    "id": 283,
+    "name": "Aconitum nap., Adrenalinum, Aralia quinquefolia, Arnica, Arsenicum alb., Baptisia, Bryonia, Cantharis, Chelidonium majus, Cinchona, Iodium, Kali carb., Kali iod.,Lachesis,Lycopodium, Lycopus virginicus, Nat. mur., Nux vom., Phosphorus, Pulsatilla, Rhus toxicodendron, Sabal, Thyroidinum, Echinacea, Gingko, Phytolacca, alcohol",
+    "sold": 50,
+    "votes": 44,
+    "price": 82.11
+  },
+  {
+    "id": 284,
+    "name": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+    "sold": 48,
+    "votes": 53,
+    "price": 88.67
+  },
+  {
+    "id": 285,
+    "name": "Metformin Hydrochloride",
+    "sold": 16,
+    "votes": 22,
+    "price": 65.96
+  },
+  {
+    "id": 286,
+    "name": "Nitrofurantoin Monohydrate/Macrocrystalline",
+    "sold": 86,
+    "votes": 74,
+    "price": 93.95
+  },
+  { "id": 287, "name": "Midazolam Hydrochloride", "votes": 14, "price": 56.63 },
+  { "id": 288, "name": "Alprazolam", "sold": 80, "votes": 84, "price": 83.95 },
+  { "id": 289, "name": "Phenol", "sold": 75, "votes": 2, "price": 58.86 },
+  {
+    "id": 290,
+    "name": "Calendula Officinalis Flower, Hydrated Silica, and Allylthiourea",
+    "sold": 66,
+    "votes": 42,
+    "price": 45.44
+  },
+  { "id": 291, "name": "Haloperidol", "sold": 96, "votes": 98, "price": 23.79 },
+  {
+    "id": 292,
+    "name": "Cefuroxime Axetil",
+    "sold": 44,
+    "votes": 86,
+    "price": 59.85
+  },
+  {
+    "id": 293,
+    "name": "eflornithine hydrochloride",
+    "sold": 12,
+    "votes": 58,
+    "price": 35.41
+  },
+  { "id": 294, "name": "Clonazepam", "sold": 72, "votes": 75, "price": 54.03 },
+  {
+    "id": 295,
+    "name": "Camphor, Menthol, Turpentine Oil",
+    "sold": 7,
+    "votes": 91,
+    "price": 92.54
+  },
+  {
+    "id": 296,
+    "name": "Levothyroxine Sodium",
+    "sold": 0,
+    "votes": 14,
+    "price": 63.38
+  },
+  {
+    "id": 297,
+    "name": "ZINC OXIDE, TITANIUM DIOXIDE",
+    "sold": 75,
+    "votes": 67,
+    "price": 45.13
+  },
+  { "id": 298, "name": "OCTINOXATE", "sold": 78, "votes": 87, "price": 49.62 },
+  {
+    "id": 299,
+    "name": "ACHILLEA MILLEFOLIUM - ACONITUM NAPELLUS - ARNICA MONTANA - ATROPA BELLADONNA - CALCIUM SULFIDE - COMFREY ROOT - ECHINACEA ANGUSTIFOLIA - ECHINACEA PURPUREA - HYPERICUM PERFORATUM - SUS SCROFA TOOTH -",
+    "sold": 48,
+    "votes": 35,
+    "price": 20.22
+  },
+  {
+    "id": 300,
+    "name": "Symphytum officinale, Capsicum annuum, Ledum palustre, Colchicum autumnale, Rhododendron chrysanthum, Ruta graveolens,",
+    "sold": 54,
+    "votes": 39,
+    "price": 85.06
+  },
+  {
+    "id": 301,
+    "name": "Human Albumin Microspheres and Perflutren",
+    "sold": 43,
+    "votes": 46,
+    "price": 52.9
+  },
+  {
+    "id": 302,
+    "name": "POVIDONE-IODINE",
+    "sold": 46,
+    "votes": 91,
+    "price": 93.71
+  },
+  {
+    "id": 303,
+    "name": "CONJUGATED ESTROGENS and MEDROXYPROGESTERONE ACETATE",
+    "sold": 54,
+    "votes": 85,
+    "price": 89.57
+  },
+  { "id": 304, "name": "Nitrogen", "sold": 83, "votes": 33, "price": 47.61 },
+  { "id": 305, "name": "RANITIDINE", "sold": 12, "votes": 79, "price": 21.88 },
+  { "id": 306, "name": "Atenolol", "sold": 21, "votes": 90, "price": 52.82 },
+  {
+    "id": 307,
+    "name": "calcium carbonate",
+    "sold": 46,
+    "votes": 94,
+    "price": 43.11
+  },
+  {
+    "id": 308,
+    "name": "Fludeoxyglucose F-18",
+    "sold": 49,
+    "votes": 61,
+    "price": 85.42
+  },
+  { "id": 309, "name": "Diazepam", "sold": 47, "votes": 34, "price": 29.72 },
+  {
+    "id": 310,
+    "name": "Amiodarone Hydrochloride",
+    "sold": 98,
+    "votes": 66,
+    "price": 63.67
+  },
+  {
+    "id": 311,
+    "name": "PYRIDOSTIGMINE BROMIDE",
+    "sold": 88,
+    "votes": 32,
+    "price": 66.91
+  },
+  {
+    "id": 312,
+    "name": "ASPIRIN, ANHYDROUS CITRIC ACID, SODIUM BICARBONATE",
+    "sold": 60,
+    "votes": 93,
+    "price": 63.84
+  },
+  { "id": 313, "name": "Modafinil", "sold": 83, "votes": 85, "price": 88.44 },
+  { "id": 314, "name": "Metolazone", "sold": 55, "votes": 100, "price": 55.78 },
+  {
+    "id": 315,
+    "name": "GLYCERIN, ARBUTIN",
+    "sold": 81,
+    "votes": 51,
+    "price": 72.03
+  },
+  {
+    "id": 316,
+    "name": "Berberis vulgarius, Agaricus muscarius, Urtica urens, Glandula suprarenalis, Spleen, Echinacea angustifolia, Atropinum sulphuricum, Ceanothus americanus,",
+    "sold": 9,
+    "votes": 3,
+    "price": 20.57
+  },
+  {
+    "id": 317,
+    "name": "American Sycamore",
+    "sold": 56,
+    "votes": 53,
+    "price": 89.94
+  },
+  { "id": 318, "name": "Radish", "sold": 57, "votes": 72, "price": 91.82 },
+  {
+    "id": 319,
+    "name": "Phenytoin Sodium",
+    "sold": 6,
+    "votes": 5,
+    "price": 54.1
+  },
+  { "id": 320, "name": "OXYGEN", "sold": 32, "votes": 82, "price": 77.39 },
+  {
+    "id": 321,
+    "name": "ISOPROTERENOL HYDROCHLORIDE",
+    "sold": 6,
+    "votes": 97,
+    "price": 91.18
+  },
+  {
+    "id": 322,
+    "name": "Interleukin-10",
+    "sold": 94,
+    "votes": 73,
+    "price": 89.27
+  },
+  { "id": 323, "name": "Benzocaine", "sold": 89, "votes": 58, "price": 60.28 },
+  { "id": 324, "name": "Metronidazole", "sold": 5, "votes": 97, "price": 42.7 },
+  {
+    "id": 325,
+    "name": "Triamcinolone Acetonide",
+    "sold": 32,
+    "votes": 62,
+    "price": 43.15
+  },
+  {
+    "id": 326,
+    "name": "Agaricus Equisetum Special Order",
+    "sold": 3,
+    "votes": 38,
+    "price": 46.04
+  },
+  {
+    "id": 327,
+    "name": "Calc phos, Carbo veg, Nat phos , Mag carb, Silicea",
+    "sold": 72,
+    "votes": 83,
+    "price": 28.83
+  },
+  {
+    "id": 328,
+    "name": "montelukast sodium",
+    "sold": 60,
+    "votes": 73,
+    "price": 31.35
+  },
+  {
+    "id": 329,
+    "name": "Metformin Hydrochloride",
+    "sold": 30,
+    "votes": 35,
+    "price": 39.76
+  },
+  {
+    "id": 330,
+    "name": "Salicylic Acid",
+    "sold": 6,
+    "votes": 66,
+    "price": 62.73
+  },
+  {
+    "id": 331,
+    "name": "potassium nitrate and sodium fluoride",
+    "sold": 45,
+    "votes": 69,
+    "price": 47.11
+  },
+  {
+    "id": 332,
+    "name": "Chelidonium majus, Fucus vesiculosus, Cyanocobalamin, Spongia tosta, Thea sinensis, Calcarea phosphorica, Calcarea fluorica, Kali phosphoricum, Natrum sulphuricum, Pulsatilla, Lycopodium clavatum, Cal",
+    "sold": 11,
+    "votes": 34,
+    "price": 87.91
+  },
+  {
+    "id": 333,
+    "name": "Methylphenidate Hydrochloride",
+    "sold": 80,
+    "votes": 61,
+    "price": 76.7
+  },
+  { "id": 334, "name": "Etodolac", "sold": 97, "votes": 92, "price": 81.43 },
+  { "id": 335, "name": "Furosemide", "sold": 24, "votes": 98, "price": 30.96 },
+  { "id": 336, "name": "Cefoxitin", "sold": 60, "votes": 54, "price": 72.62 },
+  {
+    "id": 337,
+    "name": "Asclepias vincetoxicum, Echinacea (Angustifolia), Hypothalamus (suis), Hepar suis, Kidney (suis), Methylcobalamin, Gambogia, Graphites, Nux vomica,",
+    "sold": 62,
+    "votes": 13,
+    "price": 43.6
+  },
+  { "id": 338, "name": "Mexican Tea Pollen", "votes": 62, "price": 69.95 },
+  {
+    "id": 339,
+    "name": "Oxymorphone Hydrochloride",
+    "sold": 72,
+    "votes": 3,
+    "price": 38.83
+  },
+  {
+    "id": 340,
+    "name": "Glyburide and Metformin Hydrochloride",
+    "sold": 55,
+    "votes": 12,
+    "price": 29.34
+  },
+  { "id": 341, "name": "Eucalyptol", "sold": 49, "votes": 8, "price": 24.35 },
+  {
+    "id": 342,
+    "name": "lime, citrus",
+    "sold": 54,
+    "votes": 26,
+    "price": 59.68
+  },
+  {
+    "id": 343,
+    "name": "Acetaminophen and Diphenhydramine HCl",
+    "sold": 53,
+    "votes": 39,
+    "price": 41.68
+  },
+  { "id": 344, "name": "Famotidine", "sold": 75, "votes": 83, "price": 66.38 },
+  {
+    "id": 345,
+    "name": "Fluoride Toothpaste",
+    "sold": 46,
+    "votes": 56,
+    "price": 47.39
+  },
+  {
+    "id": 346,
+    "name": "EUCALYPTOL, MENTHOL, METHYLSALICYLATE, THYMOL",
+    "sold": 37,
+    "votes": 99,
+    "price": 45.71
+  },
+  {
+    "id": 347,
+    "name": "CHELIDONIUM MAJUS and ATROPA BELLADONNA",
+    "sold": 62,
+    "votes": 5,
+    "price": 20.8
+  },
+  { "id": 348, "name": "Ibuprofen", "sold": 14, "votes": 12, "price": 59.83 },
+  {
+    "id": 349,
+    "name": "Ipratropium Bromide",
+    "sold": 65,
+    "votes": 57,
+    "price": 85.87
+  },
+  {
+    "id": 350,
+    "name": "Acetaminophen and Phenylephrine HCl",
+    "sold": 36,
+    "votes": 44,
+    "price": 89.68
+  },
+  {
+    "id": 351,
+    "name": "Avobenzone, Octisalate, Octocrylene, and Oxybenzone",
+    "sold": 11,
+    "votes": 31,
+    "price": 58.08
+  },
+  { "id": 352, "name": "ACONITINUM", "sold": 41, "votes": 71, "price": 50.91 },
+  {
+    "id": 353,
+    "name": "SEVELAMER CARBONATE",
+    "sold": 43,
+    "votes": 96,
+    "price": 37.24
+  },
+  {
+    "id": 354,
+    "name": "Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate",
+    "sold": 63,
+    "votes": 44,
+    "price": 37.26
+  },
+  {
+    "id": 355,
+    "name": "Naproxen Sodium",
+    "sold": 99,
+    "votes": 98,
+    "price": 71.26
+  },
+  {
+    "id": 356,
+    "name": "TITANIUM DIOXIDE, OCTINOXATE, ZINC OXIDE",
+    "sold": 12,
+    "votes": 84,
+    "price": 45.47
+  },
+  {
+    "id": 357,
+    "name": "Naphazoline Hydrochloride and Glycerin",
+    "sold": 52,
+    "votes": 29,
+    "price": 46.92
+  },
+  {
+    "id": 358,
+    "name": "Trazodone Hydrochloride",
+    "sold": 41,
+    "votes": 77,
+    "price": 64.51
+  },
+  { "id": 359, "name": "Gabapentin", "sold": 33, "votes": 51, "price": 37.66 },
+  {
+    "id": 360,
+    "name": "Hydroquinone, Ethylhexyl Methoxycinnamate",
+    "sold": 68,
+    "votes": 43,
+    "price": 69.22
+  },
+  { "id": 361, "name": "furosemide", "sold": 94, "votes": 35, "price": 71.13 },
+  {
+    "id": 362,
+    "name": "Fentanyl Citrate, Bupivacaine HCl",
+    "sold": 35,
+    "votes": 16,
+    "price": 20.91
+  },
+  {
+    "id": 363,
+    "name": "dibasic sodium phosphate, monobasic sodium phosphate",
+    "sold": 67,
+    "votes": 51,
+    "price": 86.9
+  },
+  {
+    "id": 364,
+    "name": "ERYTHROMYCIN ETHYLSUCCINATE",
+    "sold": 3,
+    "votes": 38,
+    "price": 56.5
+  },
+  {
+    "id": 365,
+    "name": "Nervus ischiadicus 6 Special Order",
+    "sold": 67,
+    "votes": 43,
+    "price": 96.3
+  },
+  {
+    "id": 366,
+    "name": "Potassium Chloride",
+    "sold": 35,
+    "votes": 64,
+    "price": 84.48
+  },
+  {
+    "id": 367,
+    "name": "Clindamycin Hydrochloride",
+    "sold": 77,
+    "votes": 97,
+    "price": 80.52
+  },
+  {
+    "id": 368,
+    "name": "Phentermine Hydrochloride",
+    "sold": 31,
+    "votes": 6,
+    "price": 79.88
+  },
+  {
+    "id": 369,
+    "name": "albuterol sulfate",
+    "sold": 78,
+    "votes": 97,
+    "price": 26.17
+  },
+  {
+    "id": 370,
+    "name": "Acetaminophen, guaifenesin, phenylephrine HCl",
+    "sold": 77,
+    "votes": 61,
+    "price": 78.07
+  },
+  {
+    "id": 371,
+    "name": "Ascorbic acid, Cholecalciferol, .alpha.-tocopherol acetate, dl-, Thiamine mononitrate, Riboflavin, Niacinamide, Pyridoxine Hydrochloride, Folic Acid, Cyanocobalamin, and Iron",
+    "sold": 70,
+    "votes": 32,
+    "price": 45.57
+  },
+  {
+    "id": 372,
+    "name": "fluvoxamine maleate",
+    "sold": 37,
+    "votes": 22,
+    "price": 52.81
+  },
+  {
+    "id": 373,
+    "name": "Atropine Sulfate",
+    "sold": 31,
+    "votes": 98,
+    "price": 49.85
+  },
+  { "id": 374, "name": "Blackberry", "sold": 90, "votes": 20, "price": 78.51 },
+  {
+    "id": 375,
+    "name": "dexmethylphenidate hydrochloride",
+    "sold": 26,
+    "votes": 93,
+    "price": 83.17
+  },
+  {
+    "id": 376,
+    "name": "carvedilol phosphate",
+    "sold": 7,
+    "votes": 49,
+    "price": 34.04
+  },
+  {
+    "id": 377,
+    "name": "Hydrocodone Bitartrate and Acetaminophen",
+    "sold": 94,
+    "votes": 13,
+    "price": 91.29
+  },
+  {
+    "id": 378,
+    "name": "Clarithromycin",
+    "sold": 69,
+    "votes": 9,
+    "price": 38.62
+  },
+  { "id": 379, "name": "Lovastatin", "sold": 39, "votes": 55, "price": 73.84 },
+  {
+    "id": 380,
+    "name": "bacillus firmus",
+    "sold": 99,
+    "votes": 50,
+    "price": 79.9
+  },
+  {
+    "id": 381,
+    "name": "ARNICA MONTANA",
+    "sold": 67,
+    "votes": 97,
+    "price": 48.69
+  },
+  {
+    "id": 382,
+    "name": "carbinoxamine maleate",
+    "sold": 46,
+    "votes": 80,
+    "price": 99.17
+  },
+  {
+    "id": 383,
+    "name": "ACONITUM NAPELLUS",
+    "sold": 58,
+    "votes": 17,
+    "price": 40.72
+  },
+  { "id": 384, "name": "Nabumetone", "sold": 22, "votes": 33, "price": 74.3 },
+  {
+    "id": 385,
+    "name": "OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",
+    "sold": 41,
+    "price": 38.76
+  },
+  { "id": 386, "name": "OXYGEN", "sold": 30, "votes": 36, "price": 91.14 },
+  {
+    "id": 387,
+    "name": "ARNICA MONTANA, BENZOIC ACID, BRYONIA ALBA ROOT, MATRICARIA RECUTITA, SOLANUM DULCAMARA TOP, POTASSIUM IODIDE, PULSATILLA VULGARIS, RHODODENDRON AUREUM LEAF, TOXICODENDRON PUBESCENS LEAF",
+    "sold": 47,
+    "votes": 64,
+    "price": 54.21
+  },
+  {
+    "id": 388,
+    "name": "Mucor plumbeus",
+    "sold": 19,
+    "votes": 3,
+    "price": 29.96
+  },
+  { "id": 389, "name": "Insulin", "sold": 45, "votes": 30, "price": 29.52 },
+  { "id": 390, "name": "Acyclovir", "sold": 92, "votes": 8, "price": 88.8 },
+  {
+    "id": 391,
+    "name": "Promethazine Hydrochloride",
+    "sold": 4,
+    "votes": 10,
+    "price": 50.26
+  },
+  { "id": 392, "name": "Mineral oil", "sold": 94, "votes": 60, "price": 69.18 },
+  {
+    "id": 393,
+    "name": "Losartan Potassium",
+    "sold": 4,
+    "votes": 30,
+    "price": 78.57
+  },
+  { "id": 394, "name": "losartan potassium", "votes": 76, "price": 74.1 },
+  { "id": 395, "name": "Tricolsan", "sold": 49, "votes": 72, "price": 81.2 },
+  {
+    "id": 396,
+    "name": "ADEFOVIR DIPIVOXIL",
+    "sold": 32,
+    "votes": 4,
+    "price": 23.23
+  },
+  {
+    "id": 397,
+    "name": "Clotrimazole",
+    "sold": 70,
+    "votes": 25,
+    "price": 97.95
+  },
+  { "id": 398, "name": "Paclitaxel", "sold": 51, "votes": 23, "price": 84.15 },
+  {
+    "id": 399,
+    "name": "Paromomycin Sulfate",
+    "sold": 3,
+    "votes": 97,
+    "price": 29.37
+  },
+  {
+    "id": 400,
+    "name": "Methotrexate",
+    "sold": 72,
+    "votes": 62,
+    "price": 70.02
+  },
+  {
+    "id": 401,
+    "name": "Avobenzone, Homosalate, Octisalate, Octocrylene and Oxybenzone",
+    "sold": 95,
+    "price": 28.58
+  },
+  { "id": 402, "name": "Dimethicone", "sold": 57, "votes": 22, "price": 36.52 },
+  {
+    "id": 403,
+    "name": "mycobacterium phlei",
+    "sold": 57,
+    "votes": 93,
+    "price": 34.71
+  },
+  {
+    "id": 404,
+    "name": "Titanium Dioxide, OCTINOXATE",
+    "sold": 12,
+    "price": 25.67
+  },
+  { "id": 405, "name": "OXYGEN", "sold": 75, "votes": 68, "price": 67.45 },
+  {
+    "id": 406,
+    "name": "CEFPODOXIME PROXETIL",
+    "sold": 30,
+    "votes": 58,
+    "price": 74.64
+  },
+  {
+    "id": 407,
+    "name": "avobenzone, homosalate, octisalate, oxybenzone, octocrylene",
+    "sold": 69,
+    "votes": 35,
+    "price": 83.13
+  },
+  {
+    "id": 408,
+    "name": "Arsenic Trioxide, Atropa Belladonna, Echinacea Angustifolia, Eupatorium Perfoliatum Flowering Top, Gelsemium Sempervirens Root, Lycopodium Clavatum Spore, Phosphoric Acid, Phosphorus, Rancid Beef, Toxicodendron Pubescens Leaf",
+    "sold": 43,
+    "votes": 79,
+    "price": 47.24
+  },
+  {
+    "id": 409,
+    "name": "Ropinirole Hydrochloride",
+    "sold": 9,
+    "votes": 75,
+    "price": 91.15
+  },
+  {
+    "id": 410,
+    "name": "propoxyphene hydrochloride",
+    "sold": 31,
+    "price": 88.06
+  },
+  {
+    "id": 411,
+    "name": "Glycerin, Hypromellose, Polyethylene glycol 400",
+    "sold": 71,
+    "votes": 8,
+    "price": 77.22
+  },
+  { "id": 412, "name": "cephalexin", "sold": 3, "votes": 77, "price": 80.3 },
+  {
+    "id": 413,
+    "name": "fentanyl citrate",
+    "sold": 39,
+    "votes": 38,
+    "price": 45.51
+  },
+  { "id": 414, "name": "Fluconazole", "sold": 89, "votes": 56, "price": 54.14 },
+  { "id": 415, "name": "Camphor", "sold": 1, "votes": 48, "price": 93.55 },
+  { "id": 416, "name": "NEOMYCIN SULFATE", "sold": 73, "price": 83.76 },
+  { "id": 417, "name": "Loratadine", "sold": 11, "votes": 53, "price": 41.12 },
+  { "id": 418, "name": "Triclosan", "sold": 76, "votes": 50, "price": 41.78 },
+  {
+    "id": 419,
+    "name": "Arsenic Album, Aurum Metallicum, Baryta Carbonica, Calcarea Carbonica, Glonoinum, Iodium, Kali Iodatum Lachesis Mutus, Lithium Carbonicum",
+    "sold": 79,
+    "votes": 33,
+    "price": 28.65
+  },
+  {
+    "id": 420,
+    "name": "Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone",
+    "sold": 76,
+    "votes": 67,
+    "price": 69.1
+  },
+  {
+    "id": 421,
+    "name": "kochia scoparia pollen",
+    "sold": 93,
+    "votes": 72,
+    "price": 61.58
+  },
+  {
+    "id": 422,
+    "name": "CALENDULA OFFICINALIS FLOWERING TOP, ECHINACEA, SODIUM CHLORIDE, and THUJA OCCIDENTALIS LEAFY TWIG",
+    "sold": 64,
+    "votes": 4,
+    "price": 43.84
+  },
+  {
+    "id": 423,
+    "name": "betamethasone valerate",
+    "sold": 82,
+    "votes": 12,
+    "price": 65.89
+  },
+  {
+    "id": 424,
+    "name": "Paroxetine Hydrochloride",
+    "sold": 51,
+    "votes": 5,
+    "price": 91.31
+  },
+  { "id": 425, "name": "Acer rubrum", "sold": 33, "votes": 33, "price": 46.45 },
+  {
+    "id": 426,
+    "name": "Methocarbamol",
+    "sold": 93,
+    "votes": 83,
+    "price": 50.08
+  },
+  {
+    "id": 427,
+    "name": "Lidocaine Hydrochloride",
+    "sold": 74,
+    "votes": 76,
+    "price": 84.56
+  },
+  { "id": 428, "name": "GUAIFENESIN", "sold": 38, "votes": 80, "price": 94.07 },
+  {
+    "id": 429,
+    "name": "FENTANYL CITRATE",
+    "sold": 54,
+    "votes": 68,
+    "price": 51.83
+  },
+  {
+    "id": 430,
+    "name": "Prostrate Booster",
+    "sold": 6,
+    "votes": 55,
+    "price": 68.06
+  },
+  {
+    "id": 431,
+    "name": "Salicylic Acid",
+    "sold": 55,
+    "votes": 39,
+    "price": 26.47
+  },
+  {
+    "id": 432,
+    "name": "Salicylic acid",
+    "sold": 99,
+    "votes": 48,
+    "price": 26.03
+  },
+  {
+    "id": 433,
+    "name": "Acetaminophen and Phenylephrine hydrochloride",
+    "sold": 22,
+    "votes": 62,
+    "price": 83.83
+  },
+  {
+    "id": 434,
+    "name": "losartan potassium",
+    "sold": 35,
+    "votes": 73,
+    "price": 29.79
+  },
+  {
+    "id": 435,
+    "name": "OCTINOXATE, ZINC OXIDE, ENZACAMENE, TITANIUM DIOXIDE, AMILOXATE, AVOBENZONE",
+    "sold": 62,
+    "votes": 38,
+    "price": 25.54
+  },
+  {
+    "id": 436,
+    "name": "Benzethonium chloride",
+    "sold": 76,
+    "votes": 96,
+    "price": 20.91
+  },
+  { "id": 437, "name": "Alcohol", "sold": 1, "votes": 5, "price": 54.14 },
+  {
+    "id": 438,
+    "name": "Naphazoline hydrochloride and Pheniramine Maleate",
+    "sold": 92,
+    "votes": 92,
+    "price": 44.29
+  },
+  { "id": 439, "name": "Oxytocin", "sold": 71, "votes": 29, "price": 69.79 },
+  { "id": 440, "name": "Nitrogen", "sold": 79, "votes": 79, "price": 96.21 },
+  {
+    "id": 441,
+    "name": "Bupropion Hydrochloride",
+    "sold": 81,
+    "votes": 46,
+    "price": 76.6
+  },
+  { "id": 442, "name": "Benzocaine", "sold": 7, "price": 44.99 },
+  { "id": 443, "name": "Menthol", "sold": 37, "votes": 32, "price": 92.22 },
+  { "id": 444, "name": "Minoxidil", "sold": 4, "votes": 73, "price": 23.65 },
+  { "id": 445, "name": "CIMETIDINE", "sold": 31, "votes": 75, "price": 58.11 },
+  {
+    "id": 446,
+    "name": "Sulfamethoxazole and Trimethoprim",
+    "sold": 69,
+    "votes": 82,
+    "price": 83.79
+  },
+  { "id": 447, "name": "LOVASTATIN", "sold": 83, "votes": 97, "price": 34.93 },
+  { "id": 448, "name": "ARMODAFINIL", "sold": 12, "votes": 72, "price": 22.61 },
+  {
+    "id": 449,
+    "name": "Aconitum e tub. 6 Special Order",
+    "sold": 45,
+    "votes": 67,
+    "price": 23.35
+  },
+  {
+    "id": 450,
+    "name": "Arsenicum album, Hepar sulphuris calcareum, Hydrastis canadensis, Kali bichromicum, Lycopodium clavatum, Mercurius solubilis, Natrum muriaticum, Phosphorus, Pulsatilla, Sepia Thuja occidentalis,",
+    "sold": 75,
+    "votes": 55,
+    "price": 57.1
+  },
+  {
+    "id": 451,
+    "name": "Losartan Potassium",
+    "sold": 65,
+    "votes": 1,
+    "price": 23.78
+  },
+  {
+    "id": 452,
+    "name": "Aconitum nap., Arg. nit., Aur.met., Baptisia, Bryonia, Chelidonium majus, Cimicifuga, Conium, Gelsemium, Ignatia, Kali carb., Lachesis, Lilium, Lycopodium, Nat. carb., Nat.mur., Phosphoricum ac., Phosphorus, Picricum ac., Plumb. met., Sepia, Staphysag., Stramonium, Thuja occ., Zinc. met., Chamomilla, Hypericum, Valeriana",
+    "sold": 45,
+    "votes": 35,
+    "price": 82.23
+  },
+  { "id": 453, "name": "Benzonatate", "votes": 91, "price": 36.46 },
+  { "id": 454, "name": "Baclofen", "sold": 98, "votes": 63, "price": 33.48 },
+  {
+    "id": 455,
+    "name": "Neomycin Sulfate, Polymyxin B Sulfate, Hydrocortisone",
+    "sold": 27,
+    "votes": 64,
+    "price": 46.47
+  },
+  {
+    "id": 456,
+    "name": "Coagulation Factor VIIa (Recombinant)",
+    "sold": 29,
+    "votes": 8,
+    "price": 32.58
+  },
+  {
+    "id": 457,
+    "name": "Titanium Dioxide, Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, Zinc Oxide",
+    "sold": 97,
+    "votes": 96,
+    "price": 74.23
+  },
+  {
+    "id": 458,
+    "name": "Treatment Set TS350534",
+    "sold": 28,
+    "votes": 10,
+    "price": 38.76
+  },
+  { "id": 459, "name": "Erythromycin", "sold": 40, "votes": 6, "price": 32.12 },
+  {
+    "id": 460,
+    "name": "Mometasone Furoate",
+    "sold": 58,
+    "votes": 40,
+    "price": 23.77
+  },
+  {
+    "id": 461,
+    "name": "TITANIUM DIOXIDE, OCTINOXATE, ZINC OXIDE",
+    "sold": 17,
+    "votes": 56,
+    "price": 92.72
+  },
+  {
+    "id": 462,
+    "name": "Acetaminophen, Dextromethorphan Hydrobromide, Diphenhydramine Hydrochloride, Guaifenesin, and Phenylephrine Hydrochloride",
+    "sold": 39,
+    "votes": 85,
+    "price": 74.13
+  },
+  { "id": 463, "name": "epinephrine", "sold": 50, "votes": 2, "price": 74.98 },
+  {
+    "id": 464,
+    "name": "koeleria macrantha pollen",
+    "sold": 79,
+    "price": 37.89
+  },
+  { "id": 465, "name": "topiramate", "sold": 26, "votes": 89, "price": 90.84 },
+  {
+    "id": 466,
+    "name": "SODIUM CHLORIDE",
+    "sold": 63,
+    "votes": 62,
+    "price": 90.56
+  },
+  { "id": 467, "name": "Carvedilol", "sold": 60, "votes": 80, "price": 28.47 },
+  { "id": 468, "name": "OXYGEN", "sold": 53, "votes": 78, "price": 61.99 },
+  {
+    "id": 469,
+    "name": "SOLIDAGO VIRGAUREA FLOWERING TOP and AMMI VISNAGA FRUIT and BERBERIS VULGARIS ROOT BARK and ANHYDROUS CITRIC ACID and CHONDRODENDRON TOMENTOSUM ROOT and LYTTA VESICATORIA and CALCIUM SULFIDE and NITRI",
+    "sold": 47,
+    "votes": 36,
+    "price": 25.14
+  },
+  {
+    "id": 470,
+    "name": "Treatment Set TS330716",
+    "sold": 14,
+    "votes": 76,
+    "price": 97.19
+  },
+  {
+    "id": 471,
+    "name": "Sodium Fluoride",
+    "sold": 41,
+    "votes": 3,
+    "price": 37.35
+  },
+  {
+    "id": 472,
+    "name": "zolmitriptan",
+    "sold": 14,
+    "votes": 83,
+    "price": 46.83
+  },
+  { "id": 473, "name": "PredniSONE", "sold": 100, "votes": 73, "price": 82.61 },
+  {
+    "id": 474,
+    "name": "clonidine hydrochloride",
+    "sold": 28,
+    "votes": 73,
+    "price": 84.05
+  },
+  {
+    "id": 475,
+    "name": "pralidoxime chloride",
+    "sold": 68,
+    "votes": 1,
+    "price": 61.71
+  },
+  {
+    "id": 476,
+    "name": "OCTINOXATE and TITANIUM DIOXIDE",
+    "sold": 48,
+    "votes": 8,
+    "price": 73.35
+  },
+  {
+    "id": 477,
+    "name": "Donepezil Hydrochloride",
+    "sold": 44,
+    "votes": 28,
+    "price": 81.81
+  },
+  {
+    "id": 478,
+    "name": "Symphytum Officinale, Capsicum Annuum, Ledum Palustre, Colchicum Autumnale, Rhododendron Chrysanthum",
+    "sold": 4,
+    "votes": 40,
+    "price": 70.72
+  },
+  {
+    "id": 479,
+    "name": "Methocarbamol",
+    "sold": 84,
+    "votes": 56,
+    "price": 60.21
+  },
+  {
+    "id": 480,
+    "name": "Acetaminophen",
+    "sold": 32,
+    "votes": 15,
+    "price": 45.67
+  },
+  {
+    "id": 481,
+    "name": "HEPARIN SODIUM",
+    "sold": 100,
+    "votes": 61,
+    "price": 51.81
+  },
+  {
+    "id": 482,
+    "name": "isosorbide mononitrate",
+    "sold": 43,
+    "votes": 12,
+    "price": 36.45
+  },
+  {
+    "id": 483,
+    "name": "Carbamazepine",
+    "sold": 88,
+    "votes": 98,
+    "price": 70.53
+  },
+  {
+    "id": 484,
+    "name": "isopropyl alcohol",
+    "sold": 87,
+    "votes": 88,
+    "price": 81.34
+  },
+  { "id": 485, "name": "Mexican Tea", "sold": 27, "price": 69.05 },
+  {
+    "id": 486,
+    "name": "Nitrous Oxide",
+    "sold": 18,
+    "votes": 1,
+    "price": 72.07
+  },
+  {
+    "id": 487,
+    "name": "Sulfamethoxazole and Trimethoprim",
+    "sold": 39,
+    "votes": 39,
+    "price": 69.87
+  },
+  {
+    "id": 488,
+    "name": "ISOSORBIDE MONONITRATE",
+    "sold": 16,
+    "votes": 28,
+    "price": 98.31
+  },
+  { "id": 489, "name": "Alprazolam", "sold": 48, "votes": 26, "price": 72.04 },
+  {
+    "id": 490,
+    "name": "VITAMIN A ACETATE, BETA CAROTENE, ASCORBIC ACID, CHOLECALCIFEROL, .ALPHA.-TOCOPHEROL ACETATE, DL-, THIAMINE MONONITRATE, RIBOFLAVIN, NIACINAMIDE, PYRIDOXINE HYDROCHLORIDE, FOLIC ACID, CYANOCOBALAMIN, CALCIUM CARBONATE, FERROUS FUMARATE, ZINC OXIDE, CUPRIC OXIDE",
+    "sold": 41,
+    "votes": 74,
+    "price": 52.67
+  },
+  {
+    "id": 491,
+    "name": "Ciprofloxacin",
+    "sold": 28,
+    "votes": 5,
+    "price": 67.62
+  },
+  {
+    "id": 492,
+    "name": "Phillips Milk of magnesia Original",
+    "sold": 39,
+    "votes": 43,
+    "price": 71.79
+  },
+  { "id": 493, "name": "Triclosan", "sold": 63, "votes": 37, "price": 30.19 },
+  {
+    "id": 494,
+    "name": "Lansoprazole, Amoxicillin and Clarithromycin",
+    "sold": 30,
+    "votes": 39,
+    "price": 25.37
+  },
+  {
+    "id": 495,
+    "name": "TITANIUM DIOXIDE, ZINC OXIDE",
+    "sold": 20,
+    "votes": 33,
+    "price": 90.33
+  },
+  {
+    "id": 496,
+    "name": "DEXTRAN 70, POLYETHYLENE GLYCOL 400, POVIDONE, TETRAHYDROZOLINE HCL",
+    "sold": 18,
+    "votes": 7,
+    "price": 90.84
+  },
+  {
+    "id": 497,
+    "name": "Aluminum Hydroxide, Magnesium Hydroxide, Simethicone",
+    "sold": 23,
+    "votes": 81,
+    "price": 66.04
+  },
+  { "id": 498, "name": "Alcohol", "sold": 95, "votes": 66, "price": 41.16 },
+  {
+    "id": 499,
+    "name": "METHYLPREDNISOLONE ACETATE",
+    "sold": 98,
+    "votes": 58,
+    "price": 65.37
+  },
+  { "id": 500, "name": "Guaifenesin", "sold": 20, "votes": 62, "price": 23.04 },
+  {
+    "id": 501,
+    "name": "Nitroglycerin",
+    "sold": 94,
+    "votes": 25,
+    "price": 88.97
+  },
+  {
+    "id": 502,
+    "name": "Zinc Oxide, Titanium Dioxide",
+    "sold": 74,
+    "votes": 22,
+    "price": 77.34
+  },
+  {
+    "id": 503,
+    "name": "Benzalkonium Chloride",
+    "sold": 15,
+    "votes": 12,
+    "price": 53.69
+  },
+  { "id": 504, "name": "Nicotine Polacrilex", "sold": 89, "price": 39.75 },
+  {
+    "id": 505,
+    "name": "Phenylephrine HCl",
+    "sold": 86,
+    "votes": 33,
+    "price": 21.31
+  },
+  { "id": 506, "name": "risperidone", "sold": 17, "votes": 55, "price": 95.18 },
+  {
+    "id": 507,
+    "name": "TOPICAL STARCH",
+    "sold": 0,
+    "votes": 48,
+    "price": 22.24
+  },
+  { "id": 508, "name": "Simethicone", "sold": 53, "votes": 5, "price": 51.9 },
+  { "id": 509, "name": "TOLNAFTATE", "sold": 61, "votes": 81, "price": 26.53 },
+  {
+    "id": 510,
+    "name": "Barium Sulfate",
+    "sold": 67,
+    "votes": 9,
+    "price": 90.35
+  },
+  {
+    "id": 511,
+    "name": "CITRULLUS COLOCYNTHIS FRUIT PULP and LYCOPODIUM CLAVATUM SPORE and BRYONIA ALBA ROOT and STRYCHNOS NUX-VOMICA SEED",
+    "sold": 14,
+    "votes": 19,
+    "price": 92.26
+  },
+  {
+    "id": 512,
+    "name": "Promethazine Hydrochloride",
+    "sold": 95,
+    "votes": 43,
+    "price": 92.79
+  },
+  { "id": 513, "name": "Fluoride", "sold": 18, "votes": 38, "price": 26.38 },
+  { "id": 514, "name": "Methyldopa", "sold": 30, "votes": 44, "price": 76.2 },
+  {
+    "id": 515,
+    "name": "Magnesium citrate",
+    "sold": 50,
+    "votes": 55,
+    "price": 30.06
+  },
+  { "id": 516, "name": "Benzocaine", "sold": 86, "votes": 67, "price": 39.6 },
+  {
+    "id": 517,
+    "name": "Midodrine Hydrochloride",
+    "sold": 39,
+    "votes": 14,
+    "price": 93.11
+  },
+  {
+    "id": 518,
+    "name": "Fluorouracil",
+    "sold": 58,
+    "votes": 60,
+    "price": 86.49
+  },
+  {
+    "id": 519,
+    "name": "Rosmarinus Poterium",
+    "sold": 28,
+    "votes": 25,
+    "price": 86.71
+  },
+  {
+    "id": 520,
+    "name": "METOPROLOL SUCCINATE",
+    "sold": 87,
+    "votes": 88,
+    "price": 68.02
+  },
+  { "id": 521, "name": "GLYCERIN", "sold": 0, "votes": 4, "price": 39.27 },
+  { "id": 522, "name": "Benzocaine", "sold": 37, "votes": 99, "price": 60.59 },
+  {
+    "id": 523,
+    "name": "Chlordiazepoxide Hydrochloride and Clidinium Bromide",
+    "sold": 67,
+    "votes": 84,
+    "price": 30.67
+  },
+  {
+    "id": 524,
+    "name": "fluticasone propionate and salmeterol",
+    "sold": 85,
+    "votes": 73,
+    "price": 35.62
+  },
+  {
+    "id": 525,
+    "name": "Butalbital, Aspirin and Caffeine",
+    "sold": 59,
+    "votes": 47,
+    "price": 93.99
+  },
+  {
+    "id": 526,
+    "name": "Salicylic acid",
+    "sold": 73,
+    "votes": 15,
+    "price": 77.63
+  },
+  { "id": 527, "name": "ibuprofen", "sold": 97, "votes": 72, "price": 75.84 },
+  {
+    "id": 528,
+    "name": "Capsicum Annuum, Pulsatilla, Sanguinaria Canadensis",
+    "sold": 54,
+    "votes": 11,
+    "price": 71.4
+  },
+  {
+    "id": 529,
+    "name": "FLUORIDE TREATMENT",
+    "sold": 16,
+    "votes": 63,
+    "price": 81.2
+  },
+  { "id": 530, "name": "Famotidine", "sold": 81, "votes": 95, "price": 53.5 },
+  { "id": 531, "name": "Finasteride", "sold": 85, "votes": 19, "price": 41.39 },
+  {
+    "id": 532,
+    "name": "TITANIUM DIOXIDE",
+    "sold": 94,
+    "votes": 18,
+    "price": 32.41
+  },
+  {
+    "id": 533,
+    "name": "Hydrocodone Bitartrate And Acetaminophen",
+    "sold": 56,
+    "votes": 80,
+    "price": 85.12
+  },
+  {
+    "id": 534,
+    "name": "Ethyl Alcohol",
+    "sold": 98,
+    "votes": 62,
+    "price": 67.05
+  },
+  {
+    "id": 535,
+    "name": "Aconitum napellus, Allium capa, Apis mellifica, Belladonna, Calcarea carbonica, Capsicum annuum, Causticum, Chamomilla, Dulcamara, Ferrum phosphoricum, Hepar sulphuris calcareum, Kali muriaticum, Mercurius dulcis, Mercurius solubilis, Plantago major, and Silicea",
+    "sold": 18,
+    "votes": 68,
+    "price": 96.24
+  },
+  {
+    "id": 536,
+    "name": "HORSE CHESTNUT,ALOE,HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK,NITRIC ACID,PAEONIA OFFICINALIS ROOT,SEPIA OFFICINALIS JUICE.",
+    "sold": 0,
+    "votes": 83,
+    "price": 39.22
+  },
+  {
+    "id": 537,
+    "name": "Triamcinolone Acetonide",
+    "sold": 77,
+    "votes": 49,
+    "price": 55.79
+  },
+  { "id": 538, "name": "OXYGEN", "sold": 14, "votes": 93, "price": 75.02 },
+  { "id": 539, "name": "alcohol", "sold": 33, "votes": 62, "price": 99.71 },
+  { "id": 540, "name": "Alcohol", "sold": 5, "votes": 35, "price": 86.79 },
+  {
+    "id": 541,
+    "name": "undecylenic acid, zinc undecylenate",
+    "sold": 83,
+    "votes": 83,
+    "price": 29.53
+  },
+  { "id": 542, "name": "Levothyroxine Sodium", "votes": 11, "price": 85.37 },
+  { "id": 543, "name": "ATAZANAVIR", "sold": 9, "votes": 11, "price": 31.05 },
+  { "id": 544, "name": "Arabic Gum", "sold": 4, "votes": 93, "price": 95.75 },
+  {
+    "id": 545,
+    "name": "Glyburide-Metformin Hydrochloride",
+    "sold": 68,
+    "votes": 57,
+    "price": 77.29
+  },
+  {
+    "id": 546,
+    "name": "Levonorgestrel",
+    "sold": 86,
+    "votes": 20,
+    "price": 73.81
+  },
+  {
+    "id": 547,
+    "name": "cetirizine hydrochloride",
+    "sold": 48,
+    "votes": 85,
+    "price": 72.88
+  },
+  {
+    "id": 548,
+    "name": "Argentum 0.4 Adult Size (cocoa butter) Special Order",
+    "sold": 55,
+    "votes": 88,
+    "price": 32.45
+  },
+  { "id": 549, "name": "Loratadine", "sold": 86, "votes": 91, "price": 76.83 },
+  {
+    "id": 550,
+    "name": "Treatment Set TS350906",
+    "sold": 42,
+    "votes": 93,
+    "price": 77.05
+  },
+  {
+    "id": 551,
+    "name": "Benzoyl Peroxide",
+    "sold": 85,
+    "votes": 56,
+    "price": 85.51
+  },
+  {
+    "id": 552,
+    "name": "German Cockroach",
+    "sold": 62,
+    "votes": 81,
+    "price": 97.5
+  },
+  {
+    "id": 553,
+    "name": "PIPERACILLIN SODIUM,TAZOBACTAM SODIUM",
+    "sold": 84,
+    "votes": 66,
+    "price": 78.69
+  },
+  {
+    "id": 554,
+    "name": "Wart Remover Gel Pen",
+    "sold": 72,
+    "votes": 39,
+    "price": 92.82
+  },
+  {
+    "id": 555,
+    "name": "Oxycodone hydrochloride and Acetaminophen",
+    "sold": 89,
+    "votes": 57,
+    "price": 98.38
+  },
+  {
+    "id": 556,
+    "name": "ISOPROTERENOL HYDROCHLORIDE",
+    "sold": 62,
+    "votes": 95,
+    "price": 28.39
+  },
+  {
+    "id": 557,
+    "name": "Arnica montana, Arsenicum album, Aurum metallicum, Baptisia tinctoria, Calcarea carbonica, Calcarea fluorica, Carbo vegetabilis, Carbolicum acidum, Gambogia, Hekla lava, Iodium, Kali phosphoricum, Kreosotum, Mercurius corrosivus, Mercurius vivus, Nitricum acidum, Petroleum, Quercus robur, Staphysagria, Sulphur",
+    "sold": 60,
+    "votes": 45,
+    "price": 95.63
+  },
+  { "id": 558, "name": "GLIMEPIRIDE", "sold": 87, "votes": 86, "price": 59.44 },
+  { "id": 559, "name": "Cephalexin", "sold": 46, "votes": 58, "price": 33.7 },
+  { "id": 560, "name": "Witch Hazel", "sold": 63, "votes": 15, "price": 30.64 },
+  {
+    "id": 561,
+    "name": "iva annua var. annua pollen",
+    "sold": 70,
+    "votes": 79,
+    "price": 89.59
+  },
+  {
+    "id": 562,
+    "name": "EUCALYPTUS GLOBULUS LEAF, POTASSIUM DICHROMATE",
+    "sold": 40,
+    "votes": 81,
+    "price": 86.33
+  },
+  {
+    "id": 563,
+    "name": "Ferrum arsenicosum 6",
+    "sold": 78,
+    "votes": 62,
+    "price": 98.12
+  },
+  {
+    "id": 564,
+    "name": "tetrahydrozoline HCl",
+    "sold": 2,
+    "votes": 22,
+    "price": 37.98
+  },
+  { "id": 565, "name": "Famciclovir", "sold": 17, "votes": 96, "price": 89.2 },
+  { "id": 566, "name": "Alcohol", "sold": 79, "votes": 97, "price": 69.83 },
+  {
+    "id": 567,
+    "name": "Clindamycin hydrochloride",
+    "sold": 83,
+    "votes": 13,
+    "price": 57.19
+  },
+  { "id": 568, "name": "tramadol hydrochloride", "sold": 64, "price": 21.6 },
+  {
+    "id": 569,
+    "name": "propoxyphene napsylate and acetaminophen",
+    "sold": 79,
+    "votes": 66,
+    "price": 95.53
+  },
+  {
+    "id": 570,
+    "name": "White Petrolatum",
+    "sold": 60,
+    "votes": 35,
+    "price": 84.01
+  },
+  {
+    "id": 571,
+    "name": "Aluminum Chlorohydrate",
+    "sold": 52,
+    "votes": 55,
+    "price": 99.65
+  },
+  {
+    "id": 572,
+    "name": "BENZOYL PEROXIDE",
+    "sold": 54,
+    "votes": 84,
+    "price": 39.77
+  },
+  { "id": 573, "name": "NAPROXEN", "sold": 33, "price": 87.79 },
+  {
+    "id": 574,
+    "name": "Amlodipine besylate and benazepril hydrochloride",
+    "sold": 73,
+    "votes": 56,
+    "price": 97.27
+  },
+  { "id": 575, "name": "Bumetanide", "sold": 62, "votes": 12, "price": 50.61 },
+  {
+    "id": 576,
+    "name": "Benzalkonium Chloride",
+    "sold": 1,
+    "votes": 6,
+    "price": 66.78
+  },
+  {
+    "id": 577,
+    "name": "Benazepril Hydrochloride",
+    "sold": 12,
+    "votes": 96,
+    "price": 71.83
+  },
+  {
+    "id": 578,
+    "name": "Ethyl Alcohol",
+    "sold": 94,
+    "votes": 10,
+    "price": 85.92
+  },
+  {
+    "id": 579,
+    "name": "Doxycycline tablets and Benoxyl-CR Advanced Acne Wash",
+    "sold": 67,
+    "votes": 4,
+    "price": 67.89
+  },
+  {
+    "id": 580,
+    "name": "Belladonna Alkaloids with Phenobartbital",
+    "sold": 26,
+    "votes": 14,
+    "price": 83.72
+  },
+  {
+    "id": 581,
+    "name": "Enalapril Maleate",
+    "sold": 62,
+    "votes": 60,
+    "price": 42.64
+  },
+  {
+    "id": 582,
+    "name": "sodium fluoride",
+    "sold": 61,
+    "votes": 94,
+    "price": 60.91
+  },
+  { "id": 583, "name": "Triclosan", "sold": 22, "votes": 42, "price": 87.0 },
+  {
+    "id": 584,
+    "name": "PRAMIPEXOLE DIHYDROCHLORIDE",
+    "sold": 72,
+    "votes": 37,
+    "price": 83.29
+  },
+  {
+    "id": 585,
+    "name": "erythromycin and benzoyl peroxide",
+    "sold": 40,
+    "votes": 41,
+    "price": 22.12
+  },
+  {
+    "id": 586,
+    "name": "fibrinogen human and thrombin human",
+    "sold": 45,
+    "votes": 31,
+    "price": 96.3
+  },
+  {
+    "id": 587,
+    "name": "Antihemophilic Factor (Recombinant), Fc Fusion Protein",
+    "sold": 93,
+    "votes": 7,
+    "price": 22.8
+  },
+  {
+    "id": 588,
+    "name": "HYDROCODONE BITARTRATE, ACETAMINOPHEN",
+    "sold": 78,
+    "votes": 78,
+    "price": 46.57
+  },
+  {
+    "id": 589,
+    "name": "Temozolomide",
+    "sold": 27,
+    "votes": 18,
+    "price": 70.96
+  },
+  { "id": 590, "name": "RISPERIDONE", "sold": 48, "votes": 92, "price": 82.19 },
+  {
+    "id": 591,
+    "name": "Pyrithione Zinc",
+    "sold": 52,
+    "votes": 71,
+    "price": 49.97
+  },
+  { "id": 592, "name": "mesalamine", "sold": 24, "votes": 71, "price": 25.38 },
+  {
+    "id": 593,
+    "name": "BENZALKONIUM CHLORIDE, ASPIRIN, IBUPROFEN, ISOPROPYL ALCOHOL, BENZOCAINE, SD ALCOHOL, BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B SULFATE, ACETAMINOPHEN",
+    "sold": 7,
+    "votes": 22,
+    "price": 67.51
+  },
+  { "id": 594, "name": "English Plantain", "sold": 81, "price": 84.86 },
+  {
+    "id": 595,
+    "name": "Allium Cepa, Ambrosia Artemisiaefolia, Arsenicum Album, Arundo Muritanica, Arum Triphylium, Euphrasia Officinalis, Naphthalinum, Natrum Muriaticum, Sabadilla, Wyethia Heleniodes",
+    "sold": 70,
+    "votes": 58,
+    "price": 58.14
+  },
+  { "id": 596, "name": "Oak Mixture", "sold": 72, "votes": 95, "price": 59.92 },
+  {
+    "id": 597,
+    "name": "Hydrocortisone",
+    "sold": 65,
+    "votes": 90,
+    "price": 43.54
+  },
+  {
+    "id": 598,
+    "name": "CIPROFLOXACIN",
+    "sold": 80,
+    "votes": 98,
+    "price": 63.61
+  },
+  {
+    "id": 599,
+    "name": "Pseudoephedrine HCl",
+    "sold": 7,
+    "votes": 92,
+    "price": 78.43
+  },
+  { "id": 600, "name": "ALLANTOIN", "sold": 24, "votes": 6, "price": 91.27 },
+  {
+    "id": 601,
+    "name": "PENICILLIN G POTASSIUM",
+    "sold": 82,
+    "votes": 85,
+    "price": 62.34
+  },
+  {
+    "id": 602,
+    "name": "Aconitum napellus, Alfalfa, Argentum nitricum, Arsenicum album, Aurum metallicum, Avena sativa, Baryta carbonica, Calcarea phosphorica, Chamomilla, Gelsemium sempervirens, Glonoinum, Humulus lupulus, Ignatia amara, Kali arsenicosum, Kali phosphoricum, Muriaticum acidum, Natrum phosphoricum, Passiflora incarnata, Phosphorus, Staphysagria, Stramonium",
+    "sold": 32,
+    "votes": 42,
+    "price": 93.71
+  },
+  {
+    "id": 603,
+    "name": "Atorvastatin Calcium",
+    "sold": 17,
+    "votes": 79,
+    "price": 35.37
+  },
+  {
+    "id": 604,
+    "name": "Magnesium hydroxide",
+    "sold": 87,
+    "votes": 5,
+    "price": 31.62
+  },
+  {
+    "id": 605,
+    "name": "fluorometholone",
+    "sold": 1,
+    "votes": 32,
+    "price": 96.26
+  },
+  {
+    "id": 606,
+    "name": "levofloxacin",
+    "sold": 38,
+    "votes": 57,
+    "price": 86.76
+  },
+  {
+    "id": 607,
+    "name": "Tramadol Hydrochloride and Acetaminophen",
+    "sold": 65,
+    "votes": 58,
+    "price": 80.27
+  },
+  { "id": 608, "name": "Ranitidine", "sold": 81, "votes": 47, "price": 22.27 },
+  { "id": 609, "name": "Ranitidine", "sold": 25, "votes": 21, "price": 87.67 },
+  {
+    "id": 610,
+    "name": "cetylpyridinium chloride",
+    "sold": 33,
+    "votes": 51,
+    "price": 93.04
+  },
+  { "id": 611, "name": "nifedipine", "sold": 49, "votes": 58, "price": 98.27 },
+  {
+    "id": 612,
+    "name": "levothyroxine sodium",
+    "sold": 61,
+    "votes": 4,
+    "price": 70.52
+  },
+  {
+    "id": 613,
+    "name": "Echinacea (Angustifolia), Phytolacca decandra, Boldo, Pinus sylvestris, Thyroidinum (suis), Germanium sesquioxide, Arnica montana, Calcarea iodata,",
+    "sold": 50,
+    "votes": 6,
+    "price": 59.84
+  },
+  {
+    "id": 614,
+    "name": "AGARICUS PHALLOIDES",
+    "sold": 91,
+    "votes": 82,
+    "price": 92.93
+  },
+  { "id": 615, "name": "L-dopa", "votes": 88, "price": 53.41 },
+  { "id": 616, "name": "Malt", "sold": 50, "votes": 7, "price": 98.63 },
+  {
+    "id": 617,
+    "name": "Theophylline, anhydrous",
+    "sold": 6,
+    "votes": 6,
+    "price": 52.27
+  },
+  {
+    "id": 618,
+    "name": "White petroleum",
+    "sold": 17,
+    "votes": 53,
+    "price": 83.89
+  },
+  { "id": 619, "name": "Robinul", "sold": 5, "votes": 30, "price": 69.16 },
+  {
+    "id": 620,
+    "name": "omega-3-acid ethyl esters",
+    "sold": 44,
+    "votes": 74,
+    "price": 61.6
+  },
+  { "id": 621, "name": "MENTHOL", "sold": 16, "votes": 63, "price": 31.25 },
+  {
+    "id": 622,
+    "name": "TITANIUM DIOXIDE, OCTINOXATE, ZINC OXIDE",
+    "sold": 3,
+    "votes": 1,
+    "price": 64.86
+  },
+  {
+    "id": 623,
+    "name": "OCTINOXATE, OCTOCRYLENE, and TITANIUM DIOXIDE",
+    "sold": 43,
+    "votes": 38,
+    "price": 55.66
+  },
+  {
+    "id": 624,
+    "name": "Metoprolol Succinate",
+    "sold": 67,
+    "votes": 91,
+    "price": 20.35
+  },
+  {
+    "id": 625,
+    "name": "lidocaine and prilocaine",
+    "sold": 90,
+    "votes": 11,
+    "price": 30.87
+  },
+  {
+    "id": 626,
+    "name": "DEXAMETHASONE SODIUM PHOSPHATE",
+    "sold": 91,
+    "votes": 29,
+    "price": 39.31
+  },
+  {
+    "id": 627,
+    "name": "Nitrous Oxide",
+    "sold": 35,
+    "votes": 8,
+    "price": 20.91
+  },
+  { "id": 628, "name": "naproxen", "sold": 26, "votes": 10, "price": 54.27 },
+  { "id": 629, "name": "Ibuprofen", "sold": 35, "votes": 9, "price": 98.02 },
+  { "id": 630, "name": "Glipizide", "sold": 63, "votes": 26, "price": 99.3 },
+  {
+    "id": 631,
+    "name": "Sheep Sorrel",
+    "sold": 46,
+    "votes": 22,
+    "price": 45.77
+  },
+  {
+    "id": 632,
+    "name": "LYCOPODIUM CLAVATUM",
+    "sold": 30,
+    "votes": 51,
+    "price": 63.79
+  },
+  {
+    "id": 633,
+    "name": "divalproex sodium",
+    "sold": 22,
+    "votes": 25,
+    "price": 92.25
+  },
+  {
+    "id": 634,
+    "name": "AZITHROMYCIN",
+    "sold": 23,
+    "votes": 17,
+    "price": 62.42
+  },
+  { "id": 635, "name": "Glipizide", "sold": 100, "votes": 50, "price": 89.54 },
+  { "id": 636, "name": "Minoxidil", "sold": 41, "votes": 29, "price": 55.46 },
+  {
+    "id": 637,
+    "name": "cyclobenzaprine hydrochloride",
+    "sold": 70,
+    "votes": 90,
+    "price": 82.66
+  },
+  {
+    "id": 638,
+    "name": "HYDROCODONE BITARTRATE and ACETAMINOPHEN",
+    "sold": 16,
+    "votes": 62,
+    "price": 22.1
+  },
+  {
+    "id": 639,
+    "name": "Quetiapine fumarate",
+    "sold": 90,
+    "votes": 52,
+    "price": 74.55
+  },
+  { "id": 640, "name": "Clotrimazole", "sold": 80, "votes": 1, "price": 28.27 },
+  {
+    "id": 641,
+    "name": "Acetaminophen, Guaifenesin, Phenylephrine HCl",
+    "sold": 51,
+    "votes": 67,
+    "price": 64.17
+  },
+  { "id": 642, "name": "Topiramate", "sold": 18, "votes": 6, "price": 79.01 },
+  {
+    "id": 643,
+    "name": "Propranolol Hydrochloride",
+    "sold": 97,
+    "votes": 75,
+    "price": 55.96
+  },
+  {
+    "id": 644,
+    "name": "pioglitazone hydrochloride and metformin hydrochloride",
+    "sold": 63,
+    "votes": 63,
+    "price": 67.36
+  },
+  {
+    "id": 645,
+    "name": "Sorrel Mixture",
+    "sold": 98,
+    "votes": 81,
+    "price": 50.03
+  },
+  {
+    "id": 646,
+    "name": "DICLOFENAC SODIUM",
+    "sold": 25,
+    "votes": 49,
+    "price": 26.36
+  },
+  { "id": 647, "name": "Omeprazole", "sold": 34, "votes": 99, "price": 65.83 },
+  {
+    "id": 648,
+    "name": "Amoxicillin and Clavulanate Potassium",
+    "sold": 35,
+    "votes": 54,
+    "price": 66.05
+  },
+  { "id": 649, "name": "Alcohol", "sold": 23, "votes": 61, "price": 91.94 },
+  {
+    "id": 650,
+    "name": "Triamterene and Hydrochlorothiazide",
+    "sold": 98,
+    "price": 84.22
+  },
+  {
+    "id": 651,
+    "name": "Nickel Sulfate, Potassium Bromide, Sodium Bromide, Zinc Sulfate Anhydrous, and Sulfur",
+    "sold": 19,
+    "votes": 33,
+    "price": 54.74
+  },
+  { "id": 652, "name": "Aspirin", "sold": 55, "votes": 9, "price": 63.16 },
+  {
+    "id": 653,
+    "name": "Iron, Folic Acid, Cyanocobalamin, Ascorbic acid, and Docusate Sodium",
+    "sold": 88,
+    "votes": 33,
+    "price": 26.11
+  },
+  { "id": 654, "name": "ibuprofen", "sold": 29, "votes": 62, "price": 32.5 },
+  { "id": 655, "name": "OCTINOXATE", "sold": 41, "votes": 28, "price": 30.59 },
+  { "id": 656, "name": "Alprazolam", "sold": 40, "votes": 87, "price": 60.99 },
+  {
+    "id": 657,
+    "name": "avobenzone, homosalate, octisalate, oxybenzone, octocrylene",
+    "sold": 85,
+    "votes": 6,
+    "price": 48.0
+  },
+  { "id": 658, "name": "Urea", "sold": 40, "votes": 18, "price": 50.27 },
+  {
+    "id": 659,
+    "name": "Salicylic Acid",
+    "sold": 58,
+    "votes": 36,
+    "price": 47.83
+  },
+  { "id": 660, "name": "Lamotrigine", "sold": 73, "votes": 96, "price": 21.94 },
+  {
+    "id": 661,
+    "name": "Boricum gluconicum, Calcarea gluconica, Chromium gluconicum, Cobaltum gluconicum, Cuprum gluconicum, Ferrum gluconicum, Kali gluconicum,",
+    "sold": 71,
+    "votes": 27,
+    "price": 78.5
+  },
+  {
+    "id": 662,
+    "name": "Aluminum Chlorohydrate",
+    "sold": 17,
+    "votes": 22,
+    "price": 90.07
+  },
+  {
+    "id": 663,
+    "name": "Aluminum zirconium tetrachlorohydrex gly",
+    "sold": 98,
+    "price": 25.83
+  },
+  { "id": 664, "name": "Midazolam", "sold": 7, "votes": 17, "price": 36.85 },
+  {
+    "id": 665,
+    "name": "Citalopram Hydrobromide",
+    "sold": 69,
+    "votes": 49,
+    "price": 31.1
+  },
+  {
+    "id": 666,
+    "name": "Duloxetin hydrochloride",
+    "sold": 53,
+    "votes": 99,
+    "price": 33.39
+  },
+  {
+    "id": 667,
+    "name": "cetirizine hydrochloride",
+    "sold": 38,
+    "votes": 64,
+    "price": 22.77
+  },
+  { "id": 668, "name": "Menthol", "sold": 14, "votes": 24, "price": 33.59 },
+  {
+    "id": 669,
+    "name": "Naproxen Sodium",
+    "sold": 2,
+    "votes": 61,
+    "price": 65.25
+  },
+  {
+    "id": 670,
+    "name": "Avobenzone, Octinoxate, Octisalate, Oxybenzone",
+    "sold": 23,
+    "votes": 27,
+    "price": 58.96
+  },
+  {
+    "id": 671,
+    "name": "LOPERAMIDE HYDROCHLORIDE",
+    "sold": 9,
+    "votes": 65,
+    "price": 77.05
+  },
+  { "id": 672, "name": "witch hazel", "sold": 39, "votes": 13, "price": 74.95 },
+  {
+    "id": 673,
+    "name": "Levothyroxine Sodium",
+    "sold": 15,
+    "votes": 31,
+    "price": 59.58
+  },
+  {
+    "id": 674,
+    "name": "Meclizine HCl",
+    "sold": 61,
+    "votes": 68,
+    "price": 56.27
+  },
+  { "id": 675, "name": "Lovastatin", "sold": 3, "votes": 68, "price": 23.12 },
+  {
+    "id": 676,
+    "name": "Metformin Hydrochloride",
+    "sold": 71,
+    "votes": 85,
+    "price": 38.91
+  },
+  {
+    "id": 677,
+    "name": "Aluminum Zirconium Tetrachlorohydrex Gly",
+    "sold": 99,
+    "votes": 80,
+    "price": 34.87
+  },
+  { "id": 678, "name": "pioglitazone", "sold": 57, "votes": 10, "price": 95.4 },
+  {
+    "id": 679,
+    "name": "hydrocortisone acetate and pramoxine hydrochloride",
+    "sold": 22,
+    "votes": 96,
+    "price": 80.41
+  },
+  { "id": 680, "name": "Lamotrigine", "sold": 91, "votes": 23, "price": 59.3 },
+  {
+    "id": 681,
+    "name": "Metoprolol Succinate",
+    "sold": 9,
+    "votes": 81,
+    "price": 83.27
+  },
+  {
+    "id": 682,
+    "name": "Phoma glomerata",
+    "sold": 51,
+    "votes": 35,
+    "price": 95.02
+  },
+  {
+    "id": 683,
+    "name": "Hyoscyamine Sulfate",
+    "sold": 30,
+    "votes": 41,
+    "price": 35.88
+  },
+  { "id": 684, "name": "Cephalexin", "sold": 50, "votes": 70, "price": 97.72 },
+  { "id": 685, "name": "TRICLOSAN", "sold": 12, "votes": 42, "price": 26.06 },
+  {
+    "id": 686,
+    "name": "Arnica Montana, Hamamelis Virginiana, Rhus Toxicodendron",
+    "sold": 43,
+    "votes": 53,
+    "price": 84.88
+  },
+  {
+    "id": 687,
+    "name": "Chlordiazepoxide Hydrochloride",
+    "sold": 33,
+    "votes": 12,
+    "price": 69.87
+  },
+  {
+    "id": 688,
+    "name": "Acetaminophen",
+    "sold": 4,
+    "votes": 46,
+    "price": 94.61
+  },
+  { "id": 689, "name": "FOLLITROPIN", "sold": 70, "votes": 39, "price": 65.49 },
+  {
+    "id": 690,
+    "name": "OCTINOXATE and AVOBENZONE",
+    "sold": 99,
+    "votes": 13,
+    "price": 99.53
+  },
+  { "id": 691, "name": "SOYBEAN OIL", "sold": 39, "votes": 17, "price": 94.21 },
+  {
+    "id": 692,
+    "name": "Oxycodone and Acetaminophen",
+    "sold": 53,
+    "votes": 58,
+    "price": 56.68
+  },
+  { "id": 693, "name": "Sildenafil", "sold": 91, "votes": 89, "price": 41.0 },
+  {
+    "id": 694,
+    "name": "Citalopram Hydrobromide",
+    "sold": 51,
+    "votes": 66,
+    "price": 93.87
+  },
+  { "id": 695, "name": "TRICLOSAN", "sold": 36, "votes": 94, "price": 86.04 },
+  {
+    "id": 696,
+    "name": "Nortriptyline Hydrochloride",
+    "sold": 52,
+    "votes": 69,
+    "price": 69.78
+  },
+  {
+    "id": 697,
+    "name": "Homeopathic Liquid",
+    "sold": 67,
+    "votes": 88,
+    "price": 81.1
+  },
+  { "id": 698, "name": "tobramycin", "sold": 86, "price": 33.22 },
+  {
+    "id": 699,
+    "name": "Leucine, Phenylalanine, Lysine, Methionine, Isoleucine, Valine, Histidine, Threonine, Tryptophan, Alanine, Glycine, Arginine, Proline, Serine, Tyrosine, Dextrose",
+    "sold": 7,
+    "votes": 47,
+    "price": 48.94
+  },
+  {
+    "id": 700,
+    "name": "Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate and amphetamine sulfate",
+    "sold": 1,
+    "votes": 35,
+    "price": 57.34
+  },
+  {
+    "id": 701,
+    "name": "MUCOR PLUMBEUS",
+    "sold": 64,
+    "votes": 2,
+    "price": 65.73
+  },
+  { "id": 702, "name": "Duloxetine", "sold": 9, "votes": 78, "price": 84.77 },
+  {
+    "id": 703,
+    "name": "OCTINOXATE, OCTOCRYLENE, OXYBENZONE",
+    "sold": 40,
+    "votes": 17,
+    "price": 79.28
+  },
+  { "id": 704, "name": "Etoposide", "votes": 44, "price": 38.72 },
+  {
+    "id": 705,
+    "name": "Anticoagulant Citrate Dextrose Solution Formula A",
+    "sold": 50,
+    "votes": 27,
+    "price": 20.13
+  },
+  { "id": 706, "name": "Shrimp", "sold": 70, "votes": 87, "price": 25.46 },
+  {
+    "id": 707,
+    "name": "benzalkonium chloride",
+    "sold": 62,
+    "votes": 1,
+    "price": 66.09
+  },
+  {
+    "id": 708,
+    "name": "Octinoxate and Oxybenzone",
+    "sold": 7,
+    "votes": 23,
+    "price": 88.04
+  },
+  {
+    "id": 709,
+    "name": "Enalapril Maleate and Hydrochlorothiazide",
+    "sold": 43,
+    "votes": 13,
+    "price": 87.73
+  },
+  {
+    "id": 710,
+    "name": "OCTINOXATE, TITANIUM DIOXIDE",
+    "sold": 48,
+    "votes": 42,
+    "price": 83.69
+  },
+  {
+    "id": 711,
+    "name": "lansoprazole",
+    "sold": 38,
+    "votes": 61,
+    "price": 33.33
+  },
+  { "id": 712, "name": "Triclosan", "sold": 27, "votes": 34, "price": 90.71 },
+  {
+    "id": 713,
+    "name": "Clindamycin phosphate and benzoyl peroxide",
+    "sold": 63,
+    "votes": 72,
+    "price": 24.77
+  },
+  {
+    "id": 714,
+    "name": "Benazepril Hydrochloride",
+    "sold": 100,
+    "votes": 4,
+    "price": 73.89
+  },
+  { "id": 715, "name": "Gabapentin", "sold": 39, "votes": 48, "price": 76.91 },
+  { "id": 716, "name": "Torsemide", "sold": 74, "votes": 26, "price": 42.82 },
+  { "id": 717, "name": "ESZOPICLONE", "sold": 48, "votes": 37, "price": 68.87 },
+  {
+    "id": 718,
+    "name": "Pramipexole Dihydrochloride",
+    "sold": 39,
+    "votes": 49,
+    "price": 24.52
+  },
+  {
+    "id": 719,
+    "name": "TITANIUM DIOXIDE, OCTINOXATE, ZINC OXIDE",
+    "sold": 10,
+    "votes": 3,
+    "price": 90.85
+  },
+  {
+    "id": 720,
+    "name": "OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE",
+    "sold": 83,
+    "votes": 14,
+    "price": 71.77
+  },
+  {
+    "id": 721,
+    "name": "SPIRONOLACTONE",
+    "sold": 68,
+    "votes": 12,
+    "price": 65.24
+  },
+  { "id": 722, "name": "Zinc oxide", "sold": 30, "votes": 43, "price": 94.14 },
+  {
+    "id": 723,
+    "name": "methazolamide tablets",
+    "sold": 40,
+    "votes": 51,
+    "price": 51.07
+  },
+  { "id": 724, "name": "Irinotecan", "votes": 69, "price": 81.36 },
+  { "id": 725, "name": "rotigotine", "sold": 40, "votes": 90, "price": 92.31 },
+  { "id": 726, "name": "Olanzapine", "votes": 50, "price": 64.55 },
+  {
+    "id": 727,
+    "name": "Azithromycin",
+    "sold": 79,
+    "votes": 91,
+    "price": 71.33
+  },
+  { "id": 728, "name": "Nizatidine", "sold": 65, "votes": 35, "price": 63.3 },
+  {
+    "id": 729,
+    "name": "Oxymorphone Hydrochloride",
+    "sold": 55,
+    "votes": 26,
+    "price": 66.78
+  },
+  {
+    "id": 730,
+    "name": "Acetaminophen, Dextromethorphan HBr, Chlorpheniramine maleate",
+    "sold": 84,
+    "votes": 60,
+    "price": 81.65
+  },
+  {
+    "id": 731,
+    "name": "Diphenhydramine HCl",
+    "sold": 95,
+    "votes": 48,
+    "price": 73.96
+  },
+  {
+    "id": 732,
+    "name": "Titanium Dioxide and Octinoxate",
+    "sold": 61,
+    "votes": 72,
+    "price": 27.43
+  },
+  {
+    "id": 733,
+    "name": "ANTIPYRINE AND BENZOCAINE",
+    "sold": 100,
+    "votes": 35,
+    "price": 97.44
+  },
+  {
+    "id": 734,
+    "name": "Ethyl Alcohol",
+    "sold": 53,
+    "votes": 96,
+    "price": 69.65
+  },
+  { "id": 735, "name": "Ranitidine", "sold": 21, "votes": 32, "price": 42.42 },
+  { "id": 736, "name": "Propranolol", "sold": 81, "votes": 20, "price": 23.24 },
+  { "id": 737, "name": "Cottonseed", "sold": 21, "votes": 8, "price": 67.77 },
+  { "id": 738, "name": "Budesonide", "sold": 7, "votes": 80, "price": 22.09 },
+  {
+    "id": 739,
+    "name": "Tall Oat Grass",
+    "sold": 43,
+    "votes": 1,
+    "price": 73.98
+  },
+  { "id": 740, "name": "Phytonadione", "sold": 4, "votes": 39, "price": 29.88 },
+  {
+    "id": 741,
+    "name": "PROPYLENE GLYCOL",
+    "sold": 18,
+    "votes": 15,
+    "price": 20.75
+  },
+  { "id": 742, "name": "Rizatriptan Benzoate", "sold": 65, "price": 69.26 },
+  {
+    "id": 743,
+    "name": "pneumococcal vaccine polyvalent",
+    "sold": 65,
+    "votes": 39,
+    "price": 47.95
+  },
+  {
+    "id": 744,
+    "name": "Benzalkonium Chloride",
+    "sold": 47,
+    "votes": 58,
+    "price": 85.1
+  },
+  {
+    "id": 745,
+    "name": "BENZALKONIUM CHLORIDE",
+    "sold": 84,
+    "votes": 98,
+    "price": 92.76
+  },
+  {
+    "id": 746,
+    "name": "dextromethorphan polistirex",
+    "sold": 97,
+    "votes": 59,
+    "price": 30.67
+  },
+  {
+    "id": 747,
+    "name": "Pyrithione Zinc",
+    "sold": 43,
+    "votes": 23,
+    "price": 37.65
+  },
+  { "id": 748, "name": "Alcohol", "sold": 42, "votes": 33, "price": 66.99 },
+  {
+    "id": 749,
+    "name": "Zinc Oxide, Ethylhexyl Methoxycinnamate, Benzophenone, Ethylhexyl Salicylate",
+    "sold": 73,
+    "votes": 33,
+    "price": 58.6
+  },
+  {
+    "id": 750,
+    "name": "Groundsel Tree",
+    "sold": 60,
+    "votes": 56,
+    "price": 65.95
+  },
+  {
+    "id": 751,
+    "name": "Cetirizine Hydrochloride",
+    "sold": 21,
+    "votes": 50,
+    "price": 37.95
+  },
+  { "id": 752, "name": "carvedilol", "sold": 85, "votes": 3, "price": 60.18 },
+  { "id": 753, "name": "TRICLOSAN", "sold": 54, "price": 86.02 },
+  { "id": 754, "name": "acyclovir", "sold": 4, "votes": 39, "price": 97.29 },
+  { "id": 755, "name": "Famotidine", "sold": 39, "votes": 45, "price": 43.51 },
+  { "id": 756, "name": "Didanosine", "sold": 56, "votes": 93, "price": 93.39 },
+  {
+    "id": 757,
+    "name": "Acetaminophen",
+    "sold": 11,
+    "votes": 15,
+    "price": 39.0
+  },
+  {
+    "id": 758,
+    "name": "Bacitracin Zinc, Neomycin, Polymyxin B Sulfate, Pramoxine Hydrocloride",
+    "sold": 99,
+    "votes": 74,
+    "price": 28.37
+  },
+  {
+    "id": 759,
+    "name": "ARANEUS DIADEMATUS, TRIBASIC CALCIUM PHOSPHATE, EQUISETUM HYEMALE, FERROUS IODIDE,FUMARIA OFFICINALIS FLOWERING TOP, GENTIANA LUTEA ROOT, GERANIUM ROBERTIANUM, MYOSOTIS ARVENSIS, NASTURTIUM OFFICINALE, SODIUM SULFATE, PINUS SYLVESTRIS LEAFY TWIG,SMILAX REGELII ROOT, SCROPHULARIA NODOSA, TEUCRIUM SCORODONIA FLOWERING TOP, THYROID, UNSPECIFIED andVERONICA OFFICINALIS FLOWERING TOP",
+    "sold": 53,
+    "votes": 100,
+    "price": 75.84
+  },
+  {
+    "id": 760,
+    "name": "Candida albicans",
+    "sold": 14,
+    "votes": 98,
+    "price": 94.67
+  },
+  {
+    "id": 761,
+    "name": "galantamine hydrobromide",
+    "sold": 98,
+    "votes": 26,
+    "price": 34.61
+  },
+  { "id": 762, "name": "Cefotaxime", "votes": 47, "price": 47.14 },
+  { "id": 763, "name": "Clonazepam", "sold": 42, "votes": 15, "price": 80.11 },
+  {
+    "id": 764,
+    "name": "zolpidem tartrate",
+    "sold": 73,
+    "votes": 89,
+    "price": 95.25
+  },
+  {
+    "id": 765,
+    "name": "Salicylic acid",
+    "sold": 72,
+    "votes": 44,
+    "price": 48.45
+  },
+  { "id": 766, "name": "RANITIDINE", "sold": 68, "votes": 85, "price": 30.14 },
+  {
+    "id": 767,
+    "name": "calcium carbonate",
+    "sold": 41,
+    "votes": 32,
+    "price": 49.23
+  },
+  {
+    "id": 768,
+    "name": "Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl",
+    "sold": 5,
+    "votes": 3,
+    "price": 76.55
+  },
+  {
+    "id": 769,
+    "name": "diltiazem hydrochloride",
+    "sold": 1,
+    "votes": 61,
+    "price": 79.97
+  },
+  {
+    "id": 770,
+    "name": "Salicylic acid",
+    "sold": 64,
+    "votes": 93,
+    "price": 58.46
+  },
+  {
+    "id": 771,
+    "name": "Metoprolol Tartrate",
+    "sold": 57,
+    "votes": 83,
+    "price": 63.34
+  },
+  {
+    "id": 772,
+    "name": "ACETAMINOPHEN, PHENYLEPHRINE HYDROCHLORIDE",
+    "sold": 21,
+    "votes": 38,
+    "price": 78.32
+  },
+  {
+    "id": 773,
+    "name": "amlodipine besylate and benazepril hydrochloride",
+    "sold": 5,
+    "votes": 54,
+    "price": 92.97
+  },
+  { "id": 774, "name": "Alprazolam", "sold": 9, "votes": 74, "price": 94.94 },
+  { "id": 775, "name": "Dimethicone", "sold": 63, "votes": 3, "price": 69.73 },
+  { "id": 776, "name": "Saline", "sold": 21, "votes": 63, "price": 74.39 },
+  { "id": 777, "name": "Papaya", "sold": 21, "votes": 98, "price": 45.11 },
+  {
+    "id": 778,
+    "name": "Phytolacca decandra, Spongia tosta, Crocus sativus, Coffea cruda, Aurum metallicum,",
+    "sold": 18,
+    "votes": 57,
+    "price": 35.64
+  },
+  {
+    "id": 779,
+    "name": "Acetaminophen",
+    "sold": 80,
+    "votes": 61,
+    "price": 56.11
+  },
+  {
+    "id": 780,
+    "name": "Aspergillus terreus",
+    "sold": 80,
+    "votes": 78,
+    "price": 46.85
+  },
+  {
+    "id": 781,
+    "name": "SPF4 Lip Balm",
+    "sold": 80,
+    "votes": 91,
+    "price": 30.39
+  },
+  { "id": 782, "name": "cilostazol", "sold": 18, "votes": 96, "price": 41.0 },
+  {
+    "id": 783,
+    "name": "Paroxetine Hydrochloride",
+    "sold": 2,
+    "votes": 74,
+    "price": 91.97
+  },
+  {
+    "id": 784,
+    "name": "zolpidem tartrate",
+    "sold": 98,
+    "votes": 43,
+    "price": 29.53
+  },
+  {
+    "id": 785,
+    "name": "Atovaquone and Proguanil Hydrochloride",
+    "sold": 79,
+    "votes": 79,
+    "price": 97.02
+  },
+  {
+    "id": 786,
+    "name": "Benzalkonium Chloride",
+    "sold": 70,
+    "votes": 58,
+    "price": 50.1
+  },
+  {
+    "id": 787,
+    "name": "CHIMAPHILA UMBELLATA",
+    "sold": 22,
+    "votes": 81,
+    "price": 67.54
+  },
+  { "id": 788, "name": "Aspirin", "sold": 84, "votes": 71, "price": 91.27 },
+  {
+    "id": 789,
+    "name": "Bisoprolol Fumarate",
+    "sold": 7,
+    "votes": 46,
+    "price": 31.19
+  },
+  {
+    "id": 790,
+    "name": "Titanium dioxide",
+    "sold": 33,
+    "votes": 63,
+    "price": 23.44
+  },
+  {
+    "id": 791,
+    "name": "AMMONIUM MURIATICUM",
+    "sold": 11,
+    "votes": 16,
+    "price": 96.27
+  },
+  {
+    "id": 792,
+    "name": "Bismuth subsalicylate",
+    "sold": 16,
+    "votes": 6,
+    "price": 64.45
+  },
+  { "id": 793, "name": "OCTINOXATE", "sold": 24, "votes": 11, "price": 76.13 },
+  {
+    "id": 794,
+    "name": "Titanium Dioxide and Zinc Oxide",
+    "sold": 35,
+    "votes": 64,
+    "price": 50.14
+  },
+  { "id": 795, "name": "Halcinonide", "sold": 58, "votes": 87, "price": 51.85 },
+  { "id": 796, "name": "tizanidine hydrochloride", "votes": 36, "price": 57.7 },
+  {
+    "id": 797,
+    "name": "Anticoagulant Citrate Phosphate Dextrose (CPD) Solution and ADSOL Preservation Solution",
+    "sold": 39,
+    "votes": 45,
+    "price": 55.95
+  },
+  {
+    "id": 798,
+    "name": "Homosalate, Octinoxate, Octisalate, Oxybenzone, and Titanium Dioxide",
+    "sold": 53,
+    "votes": 6,
+    "price": 60.29
+  },
+  {
+    "id": 799,
+    "name": "methylprednisolone sodium succinate",
+    "sold": 67,
+    "votes": 72,
+    "price": 80.64
+  },
+  { "id": 800, "name": "Ibuprofen", "sold": 54, "votes": 48, "price": 33.51 },
+  {
+    "id": 801,
+    "name": "One Seed Juniper",
+    "sold": 24,
+    "votes": 26,
+    "price": 81.98
+  },
+  {
+    "id": 802,
+    "name": "METOPROLOL SUCCINATE",
+    "sold": 31,
+    "votes": 81,
+    "price": 31.09
+  },
+  {
+    "id": 803,
+    "name": "Naproxen sodium, Pseudoephedrine HCl",
+    "sold": 32,
+    "votes": 78,
+    "price": 74.85
+  },
+  { "id": 804, "name": "Digoxin", "sold": 41, "votes": 7, "price": 29.74 },
+  { "id": 805, "name": "Lamotrigine", "sold": 11, "votes": 74, "price": 23.85 },
+  { "id": 806, "name": "TRICLOSAN", "sold": 0, "votes": 71, "price": 96.29 },
+  {
+    "id": 807,
+    "name": "GRANISETRON HYDROCHLORIDE",
+    "sold": 11,
+    "votes": 78,
+    "price": 64.01
+  },
+  {
+    "id": 808,
+    "name": "diphenoxylate hydrochloride and atropine sulfate",
+    "sold": 61,
+    "votes": 82,
+    "price": 39.7
+  },
+  { "id": 809, "name": "Lisinopril", "sold": 40, "votes": 35, "price": 67.77 },
+  {
+    "id": 810,
+    "name": "CHAETOMIUM GLOBOSUM",
+    "sold": 48,
+    "votes": 84,
+    "price": 38.45
+  },
+  {
+    "id": 811,
+    "name": "ETHYL ALCOHOL",
+    "sold": 30,
+    "votes": 86,
+    "price": 41.59
+  },
+  {
+    "id": 812,
+    "name": "Pentazocine hydrochloride and naloxone hydrochloride",
+    "sold": 17,
+    "votes": 51,
+    "price": 80.48
+  },
+  { "id": 813, "name": "alprazolam", "sold": 76, "votes": 6, "price": 55.13 },
+  { "id": 814, "name": "MENTHOL", "sold": 6, "votes": 41, "price": 50.78 },
+  {
+    "id": 815,
+    "name": "Hydrochlorothiazide",
+    "sold": 48,
+    "votes": 56,
+    "price": 60.39
+  },
+  {
+    "id": 816,
+    "name": "OCTINOXATE, OCTOCRYLENE, OCTISALATE, and OXYBENZONE",
+    "sold": 18,
+    "votes": 34,
+    "price": 27.77
+  },
+  { "id": 817, "name": "azithromycin", "sold": 28, "votes": 2, "price": 57.8 },
+  {
+    "id": 818,
+    "name": "glycopyrrolate",
+    "sold": 67,
+    "votes": 97,
+    "price": 24.7
+  },
+  { "id": 819, "name": "TRAMADOL HCL", "sold": 0, "votes": 69, "price": 86.67 },
+  {
+    "id": 820,
+    "name": "Phenytoin Sodium",
+    "sold": 46,
+    "votes": 25,
+    "price": 33.06
+  },
+  {
+    "id": 821,
+    "name": "Meclizine HCl",
+    "sold": 42,
+    "votes": 9,
+    "price": 82.23
+  },
+  {
+    "id": 822,
+    "name": "Duck Feathers",
+    "sold": 11,
+    "votes": 62,
+    "price": 66.78
+  },
+  {
+    "id": 823,
+    "name": "Zinc Gluconate",
+    "sold": 18,
+    "votes": 74,
+    "price": 86.92
+  },
+  { "id": 824, "name": "Melatonin,", "sold": 1, "votes": 47, "price": 26.75 },
+  {
+    "id": 825,
+    "name": "Fluvoxamine maleate",
+    "sold": 78,
+    "votes": 15,
+    "price": 88.8
+  },
+  {
+    "id": 826,
+    "name": "sulfacetamide sodium and sulfur",
+    "sold": 7,
+    "votes": 97,
+    "price": 76.22
+  },
+  {
+    "id": 827,
+    "name": "Acetaminophen, Aspirin, Caffeine",
+    "sold": 87,
+    "votes": 44,
+    "price": 64.93
+  },
+  {
+    "id": 828,
+    "name": "KALMIA LATIFOLIA LEAF",
+    "sold": 57,
+    "votes": 26,
+    "price": 25.65
+  },
+  { "id": 829, "name": "Irbesartan", "sold": 42, "votes": 67, "price": 81.52 },
+  {
+    "id": 830,
+    "name": "Sodium Monofluorophosphate",
+    "sold": 2,
+    "votes": 98,
+    "price": 34.79
+  },
+  {
+    "id": 831,
+    "name": "Phosphorus 30",
+    "sold": 56,
+    "votes": 20,
+    "price": 30.48
+  },
+  {
+    "id": 832,
+    "name": "valsartan and hydrochlorothiazide",
+    "sold": 88,
+    "votes": 34,
+    "price": 62.86
+  },
+  {
+    "id": 833,
+    "name": "HYPERICUM PERFORATUM",
+    "sold": 88,
+    "votes": 36,
+    "price": 52.18
+  },
+  {
+    "id": 834,
+    "name": "ENALAPRIL MALEATE",
+    "sold": 47,
+    "votes": 58,
+    "price": 28.12
+  },
+  {
+    "id": 835,
+    "name": "Acetaminophen",
+    "sold": 21,
+    "votes": 71,
+    "price": 67.13
+  },
+  {
+    "id": 836,
+    "name": "Octinoxate, TITANIUM DIOXIDE, and ZINC OXIDE",
+    "sold": 71,
+    "votes": 67,
+    "price": 75.64
+  },
+  {
+    "id": 837,
+    "name": "benzphetamine hydrochloride",
+    "sold": 70,
+    "votes": 89,
+    "price": 20.49
+  },
+  {
+    "id": 838,
+    "name": "Antifungal Powder Miconazole Nitrate",
+    "sold": 99,
+    "votes": 18,
+    "price": 30.52
+  },
+  { "id": 839, "name": "aspirin", "sold": 53, "votes": 59, "price": 65.54 },
+  {
+    "id": 840,
+    "name": "Methylene Blue",
+    "sold": 41,
+    "votes": 13,
+    "price": 24.4
+  },
+  {
+    "id": 841,
+    "name": "Venlafaxine Hydrochloride",
+    "sold": 20,
+    "votes": 72,
+    "price": 66.67
+  },
+  {
+    "id": 842,
+    "name": "Allergenic Extracts Alum Precipitated",
+    "sold": 49,
+    "votes": 2,
+    "price": 25.27
+  },
+  {
+    "id": 843,
+    "name": "bupropion hydrochloride",
+    "sold": 11,
+    "votes": 55,
+    "price": 60.13
+  },
+  { "id": 844, "name": "Menthol", "sold": 48, "votes": 47, "price": 95.6 },
+  { "id": 845, "name": "Phenytoin Sodium", "votes": 1, "price": 40.27 },
+  { "id": 846, "name": "Loratadine", "sold": 9, "votes": 61, "price": 79.7 },
+  { "id": 847, "name": "Oregano", "sold": 55, "votes": 65, "price": 77.14 },
+  {
+    "id": 848,
+    "name": "Levetiracetam",
+    "sold": 16,
+    "votes": 17,
+    "price": 20.65
+  },
+  {
+    "id": 849,
+    "name": "Aluminum Zirconium Tetrachlorohydrex GLY",
+    "sold": 98,
+    "votes": 24,
+    "price": 54.55
+  },
+  {
+    "id": 850,
+    "name": "Levocarnitine",
+    "sold": 23,
+    "votes": 95,
+    "price": 63.18
+  },
+  {
+    "id": 851,
+    "name": "ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, DOXYLAMINE SUCCINATE",
+    "sold": 68,
+    "votes": 45,
+    "price": 89.27
+  },
+  {
+    "id": 852,
+    "name": "Octinoxate and Oxybenzone",
+    "sold": 9,
+    "votes": 80,
+    "price": 86.75
+  },
+  {
+    "id": 853,
+    "name": "Medroxyprogesterone Acetate",
+    "sold": 70,
+    "votes": 96,
+    "price": 37.73
+  },
+  { "id": 854, "name": "phenytoin", "sold": 55, "votes": 16, "price": 25.65 },
+  { "id": 855, "name": "Oxygen", "sold": 21, "price": 96.54 },
+  {
+    "id": 856,
+    "name": "NOT APPLICABLE",
+    "sold": 81,
+    "votes": 49,
+    "price": 66.83
+  },
+  {
+    "id": 857,
+    "name": "ETHYL ALCOHOL",
+    "sold": 86,
+    "votes": 3,
+    "price": 31.47
+  },
+  { "id": 858, "name": "Capsaicin", "sold": 70, "votes": 3, "price": 96.31 },
+  { "id": 859, "name": "Nicotine Polacrilex", "sold": 16, "price": 41.03 },
+  { "id": 860, "name": "Cauliflower", "sold": 2, "votes": 9, "price": 33.6 },
+  {
+    "id": 861,
+    "name": "TITANIUM DIOXIDE, OCTINOXATE",
+    "sold": 47,
+    "votes": 39,
+    "price": 99.72
+  },
+  {
+    "id": 862,
+    "name": "TITANIUM DIOXIDE",
+    "sold": 69,
+    "votes": 82,
+    "price": 46.77
+  },
+  {
+    "id": 863,
+    "name": "mycobacterium phlei",
+    "sold": 14,
+    "votes": 68,
+    "price": 93.99
+  },
+  {
+    "id": 864,
+    "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+    "sold": 51,
+    "votes": 100,
+    "price": 25.72
+  },
+  {
+    "id": 865,
+    "name": "Naproxen Sodium",
+    "sold": 88,
+    "votes": 37,
+    "price": 68.2
+  },
+  {
+    "id": 866,
+    "name": "Diphenhydramine HCl, Allantoin",
+    "sold": 29,
+    "votes": 88,
+    "price": 94.85
+  },
+  {
+    "id": 867,
+    "name": "VANCOMYCIN HYDROCHLORIDE",
+    "sold": 0,
+    "votes": 5,
+    "price": 39.18
+  },
+  {
+    "id": 868,
+    "name": "Ondansetron Hydrochloride",
+    "sold": 21,
+    "votes": 90,
+    "price": 98.25
+  },
+  {
+    "id": 869,
+    "name": "Hydroxychloroquine sulfate",
+    "sold": 93,
+    "votes": 55,
+    "price": 46.46
+  },
+  { "id": 870, "name": "Lamotrigine", "sold": 3, "votes": 51, "price": 67.84 },
+  { "id": 871, "name": "Yellow Pine", "sold": 98, "votes": 54, "price": 60.52 },
+  { "id": 872, "name": "estradiol", "sold": 26, "votes": 94, "price": 73.85 },
+  { "id": 873, "name": "Risperidone", "sold": 0, "votes": 56, "price": 21.89 },
+  { "id": 874, "name": "Ailanthus", "sold": 92, "votes": 16, "price": 30.07 },
+  { "id": 875, "name": "Carvedilol", "sold": 9, "votes": 42, "price": 26.93 },
+  { "id": 876, "name": "Honeydew", "sold": 9, "votes": 57, "price": 90.78 },
+  {
+    "id": 877,
+    "name": "TITANIUM DIOXIDE, OXYBENZONE, and OCTINOXATE",
+    "sold": 19,
+    "votes": 1,
+    "price": 71.51
+  },
+  {
+    "id": 878,
+    "name": "HISTAMINE DIHYDROCHLORIDE",
+    "sold": 41,
+    "votes": 85,
+    "price": 72.4
+  },
+  {
+    "id": 879,
+    "name": "COCOA BUTTER, PHENYLEPHRINE HYDROCHLORIDE",
+    "sold": 64,
+    "votes": 97,
+    "price": 79.94
+  },
+  { "id": 880, "name": "Tacrolimus", "sold": 7, "votes": 51, "price": 50.57 },
+  {
+    "id": 881,
+    "name": "Diphenhydramine HCl",
+    "sold": 100,
+    "votes": 5,
+    "price": 44.46
+  },
+  {
+    "id": 882,
+    "name": "SODIUM CHLORIDE",
+    "sold": 27,
+    "votes": 26,
+    "price": 71.4
+  },
+  {
+    "id": 883,
+    "name": "Chlorzoxazone",
+    "sold": 35,
+    "votes": 81,
+    "price": 78.87
+  },
+  { "id": 884, "name": "Air", "sold": 11, "votes": 19, "price": 42.18 },
+  { "id": 885, "name": "ZINC OXIDE", "sold": 67, "votes": 30, "price": 94.67 },
+  {
+    "id": 886,
+    "name": "PIPERACILLIN SODIUM,TAZOBACTAM SODIUM",
+    "sold": 45,
+    "votes": 69,
+    "price": 85.02
+  },
+  {
+    "id": 887,
+    "name": "Divalproex Sodium",
+    "sold": 3,
+    "votes": 11,
+    "price": 54.77
+  },
+  { "id": 888, "name": "Ropinirole", "sold": 53, "votes": 83, "price": 81.29 },
+  {
+    "id": 889,
+    "name": "Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl",
+    "sold": 72,
+    "votes": 29,
+    "price": 85.35
+  },
+  { "id": 890, "name": "Theophylline", "sold": 13, "votes": 27, "price": 44.1 },
+  {
+    "id": 891,
+    "name": "Albuterol Sulfate",
+    "sold": 91,
+    "votes": 66,
+    "price": 91.16
+  },
+  {
+    "id": 892,
+    "name": "levetiracetam",
+    "sold": 80,
+    "votes": 65,
+    "price": 29.41
+  },
+  { "id": 893, "name": "ALFALFA", "sold": 88, "votes": 37, "price": 29.35 },
+  { "id": 894, "name": "Zinc Oxide", "sold": 56, "votes": 71, "price": 32.53 },
+  {
+    "id": 895,
+    "name": "acetaminophen",
+    "sold": 23,
+    "votes": 82,
+    "price": 67.87
+  },
+  { "id": 896, "name": "Famotidine", "sold": 81, "votes": 80, "price": 94.7 },
+  {
+    "id": 897,
+    "name": "STANNOUS FLUORIDE",
+    "sold": 79,
+    "votes": 72,
+    "price": 97.28
+  },
+  { "id": 898, "name": "RIFAXIMIN", "sold": 89, "votes": 4, "price": 55.64 },
+  {
+    "id": 899,
+    "name": "Warfarin Sodium",
+    "sold": 36,
+    "votes": 89,
+    "price": 65.57
+  },
+  { "id": 900, "name": "Oxygen", "sold": 53, "votes": 76, "price": 76.58 },
+  {
+    "id": 901,
+    "name": "Guaifenesin, Phenylephrine Hydrochloride, and Dextromethorphan Hydrobromide",
+    "sold": 55,
+    "votes": 7,
+    "price": 96.45
+  },
+  { "id": 902, "name": "Tricolsan", "sold": 99, "votes": 5, "price": 78.55 },
+  {
+    "id": 903,
+    "name": "CODEINE PHOSPHATE, PHENYLEPHRINE HYDROCHLORIDE AND DIPHENHYDRAMINE HYDROCHLORIDE",
+    "sold": 74,
+    "votes": 33,
+    "price": 94.5
+  },
+  { "id": 904, "name": "Amoxicillin", "sold": 4, "votes": 98, "price": 94.78 },
+  {
+    "id": 905,
+    "name": "LIDOCAINE HYDROCHLORIDE",
+    "sold": 39,
+    "votes": 33,
+    "price": 39.7
+  },
+  {
+    "id": 906,
+    "name": "American Cockroach",
+    "sold": 12,
+    "votes": 71,
+    "price": 94.69
+  },
+  {
+    "id": 907,
+    "name": "Cottonwood Eastern Common",
+    "sold": 21,
+    "votes": 99,
+    "price": 83.55
+  },
+  { "id": 908, "name": "Alcohol", "sold": 97, "votes": 97, "price": 58.28 },
+  {
+    "id": 909,
+    "name": "Diltiazem Hydrochloride",
+    "sold": 95,
+    "votes": 11,
+    "price": 75.63
+  },
+  {
+    "id": 910,
+    "name": "Quetiapine fumarate",
+    "sold": 53,
+    "votes": 49,
+    "price": 24.24
+  },
+  {
+    "id": 911,
+    "name": "Arnica 30c, Berberis Vulgaris 30c, Bryonia 30c, Graphites 30c, Hypericum 30c, Kali Carb 30c, Lycopodium 30c, Nat Sulph 30c, Rhus Tox 30c, Ruta Grav 30c",
+    "sold": 63,
+    "votes": 89,
+    "price": 43.51
+  },
+  { "id": 912, "name": "furosemide", "votes": 91, "price": 89.94 },
+  {
+    "id": 913,
+    "name": "DONEPEZIL HYDROCHLORIDE",
+    "sold": 24,
+    "votes": 84,
+    "price": 88.67
+  },
+  { "id": 914, "name": "Captopril", "sold": 68, "votes": 53, "price": 27.44 },
+  {
+    "id": 915,
+    "name": "Chlorpromazine Hydrochloride",
+    "sold": 53,
+    "votes": 80,
+    "price": 47.42
+  },
+  { "id": 916, "name": "Pseudoephedrine HCl", "sold": 90, "price": 49.33 },
+  { "id": 917, "name": "RISPERIDONE", "sold": 43, "votes": 56, "price": 70.67 },
+  {
+    "id": 918,
+    "name": "Antimonium crudum, Baptisia tinctoria, Chamomilla, Fagopyrum esculentum, Glonoinum, Hypothalamus, Natrum carbonicum, Natrum muriaticum, Podophyllinum, Populus candicans, Selenium metallicum, Thyroidinum",
+    "sold": 4,
+    "price": 76.5
+  },
+  {
+    "id": 919,
+    "name": "promethazine hydrochloride",
+    "sold": 35,
+    "votes": 30,
+    "price": 63.0
+  },
+  { "id": 920, "name": "TRICLOSAN", "sold": 16, "votes": 66, "price": 27.87 },
+  { "id": 921, "name": "alprazolam", "sold": 61, "votes": 24, "price": 35.7 },
+  {
+    "id": 922,
+    "name": "Hydrocodone Bitartrate and Acetaminophen",
+    "sold": 26,
+    "votes": 60,
+    "price": 40.71
+  },
+  {
+    "id": 923,
+    "name": "TITANIUM DIOXIDE",
+    "sold": 3,
+    "votes": 96,
+    "price": 67.78
+  },
+  { "id": 924, "name": "Lovastatin", "sold": 10, "votes": 30, "price": 42.2 },
+  {
+    "id": 925,
+    "name": "Chlordiazepoxide Hydrochloride",
+    "sold": 44,
+    "votes": 52,
+    "price": 99.69
+  },
+  {
+    "id": 926,
+    "name": "pseudoephedrine HCL",
+    "sold": 82,
+    "votes": 40,
+    "price": 70.36
+  },
+  {
+    "id": 927,
+    "name": "Dextrose Monohydrate, Sodium Chloride, Sodium Lactate, Calcium Chloride, Magnesium Chloride",
+    "sold": 66,
+    "votes": 66,
+    "price": 67.17
+  },
+  { "id": 928, "name": "Carrot", "sold": 65, "votes": 100, "price": 33.72 },
+  { "id": 929, "name": "TRICLOSAN", "sold": 2, "votes": 55, "price": 70.15 },
+  { "id": 930, "name": "Menthol", "sold": 12, "votes": 36, "price": 47.04 },
+  {
+    "id": 931,
+    "name": "dextroamphetamine sulfate",
+    "sold": 72,
+    "votes": 6,
+    "price": 95.19
+  },
+  {
+    "id": 932,
+    "name": "Acetaminophen, Dextromethorphan Hydrobromide, and Phenylephrine Hydrochloride",
+    "sold": 45,
+    "votes": 32,
+    "price": 25.25
+  },
+  {
+    "id": 933,
+    "name": "Acetaminophen,Caffeine,Pyrilamine",
+    "sold": 34,
+    "votes": 47,
+    "price": 39.21
+  },
+  {
+    "id": 934,
+    "name": "KETOROLAC TROMETHAMINE",
+    "sold": 18,
+    "votes": 93,
+    "price": 69.05
+  },
+  {
+    "id": 935,
+    "name": "dextromethorphan hydrobromide and guaifenesin",
+    "sold": 94,
+    "votes": 66,
+    "price": 54.82
+  },
+  {
+    "id": 936,
+    "name": "ACETYLCYSTEINE",
+    "sold": 40,
+    "votes": 8,
+    "price": 27.72
+  },
+  {
+    "id": 937,
+    "name": "Benzoyl Peroxide",
+    "sold": 12,
+    "votes": 95,
+    "price": 84.91
+  },
+  { "id": 938, "name": "Hackberry", "sold": 70, "votes": 25, "price": 79.58 },
+  { "id": 939, "name": "GLYCERIN", "sold": 33, "votes": 45, "price": 44.11 },
+  {
+    "id": 940,
+    "name": "Acetaminophen",
+    "sold": 72,
+    "votes": 69,
+    "price": 88.45
+  },
+  {
+    "id": 941,
+    "name": "HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK",
+    "sold": 61,
+    "votes": 49,
+    "price": 32.71
+  },
+  {
+    "id": 942,
+    "name": "SODIUM FLUORIDE",
+    "sold": 36,
+    "votes": 84,
+    "price": 97.16
+  },
+  {
+    "id": 943,
+    "name": "Homosalate, Octinoxate, Octisalate, and Oxybenzone",
+    "sold": 20,
+    "votes": 43,
+    "price": 75.29
+  },
+  { "id": 944, "name": "naproxen", "sold": 72, "votes": 79, "price": 96.79 },
+  {
+    "id": 945,
+    "name": "First Aid Ointment",
+    "sold": 67,
+    "votes": 100,
+    "price": 50.13
+  },
+  {
+    "id": 946,
+    "name": "Nitroux Oxide",
+    "sold": 50,
+    "votes": 74,
+    "price": 39.73
+  },
+  {
+    "id": 947,
+    "name": "Eucalyptol, menthol, methyl salicylate, thymol",
+    "sold": 78,
+    "price": 38.87
+  },
+  { "id": 948, "name": "Caffeine", "sold": 25, "votes": 7, "price": 20.54 },
+  {
+    "id": 949,
+    "name": "Avobenzone, Homosalate, Octocrylene, Octisalate",
+    "sold": 53,
+    "votes": 30,
+    "price": 89.06
+  },
+  {
+    "id": 950,
+    "name": "Oxygen, Refrigerated Liquid",
+    "sold": 61,
+    "votes": 93,
+    "price": 46.69
+  },
+  { "id": 951, "name": "Famotidine", "sold": 94, "price": 78.36 },
+  {
+    "id": 952,
+    "name": "Ketotifen Fumarate",
+    "sold": 7,
+    "votes": 64,
+    "price": 64.88
+  },
+  {
+    "id": 953,
+    "name": "Arnica Montana, Bellis Perennis, Matricaria Recutita, Ipecac, and Lycopodium Clavatum Spore",
+    "sold": 23,
+    "votes": 74,
+    "price": 44.47
+  },
+  {
+    "id": 954,
+    "name": "Carbidopa and Levodopa",
+    "sold": 59,
+    "votes": 84,
+    "price": 48.78
+  },
+  {
+    "id": 955,
+    "name": "acetylcysteine",
+    "sold": 39,
+    "votes": 85,
+    "price": 25.19
+  },
+  { "id": 956, "name": "Mouse Epithelium", "sold": 68, "price": 64.62 },
+  {
+    "id": 957,
+    "name": "Dextrose Monohydrate, Sodium Chloride, Calcium Chloride, Magnesium Chloride, Sodium Lactate",
+    "sold": 45,
+    "votes": 39,
+    "price": 24.95
+  },
+  {
+    "id": 958,
+    "name": "Nicotine Polacrilex",
+    "sold": 43,
+    "votes": 99,
+    "price": 63.19
+  },
+  {
+    "id": 959,
+    "name": "cefuroxime axetil",
+    "sold": 19,
+    "votes": 47,
+    "price": 87.21
+  },
+  {
+    "id": 960,
+    "name": "Avobenzone, Octisalate, Octocrylene",
+    "sold": 64,
+    "votes": 88,
+    "price": 96.39
+  },
+  {
+    "id": 961,
+    "name": "clindamycin phosphate",
+    "sold": 36,
+    "votes": 49,
+    "price": 49.89
+  },
+  {
+    "id": 962,
+    "name": "Pseudoephedrine HCl",
+    "sold": 79,
+    "votes": 23,
+    "price": 56.58
+  },
+  {
+    "id": 963,
+    "name": "Dextromethorphan Hydrobromide, Guaifenesin, Acetaminophen, Chlorpheniramine maleate",
+    "sold": 91,
+    "votes": 92,
+    "price": 96.29
+  },
+  { "id": 964, "name": "Oxygen", "sold": 48, "votes": 68, "price": 80.15 },
+  { "id": 965, "name": "ALCOHOL", "sold": 56, "votes": 31, "price": 27.39 },
+  {
+    "id": 966,
+    "name": "Rabeprazole Sodium",
+    "sold": 76,
+    "votes": 38,
+    "price": 83.4
+  },
+  {
+    "id": 967,
+    "name": "Aluminum Zirconium Tetrachlorohydrex GLY",
+    "sold": 5,
+    "price": 82.93
+  },
+  {
+    "id": 968,
+    "name": "chlorhexidine gluconate and isopropyl alcohol",
+    "sold": 11,
+    "votes": 65,
+    "price": 65.02
+  },
+  {
+    "id": 969,
+    "name": "nitroglycerin",
+    "sold": 19,
+    "votes": 30,
+    "price": 22.14
+  },
+  {
+    "id": 970,
+    "name": "Phendimetrazine Tartrate",
+    "sold": 55,
+    "votes": 64,
+    "price": 41.73
+  },
+  { "id": 971, "name": "FAMOTIDINE", "sold": 44, "votes": 79, "price": 89.08 },
+  {
+    "id": 972,
+    "name": "omega-3-acid ethyl esters",
+    "sold": 87,
+    "votes": 52,
+    "price": 59.05
+  },
+  {
+    "id": 973,
+    "name": "Ibuprofen and Diphenhydramine HCl",
+    "sold": 31,
+    "votes": 49,
+    "price": 22.62
+  },
+  { "id": 974, "name": "Ibuprofen", "sold": 58, "votes": 23, "price": 55.83 },
+  { "id": 975, "name": "Goldenrod", "sold": 86, "votes": 22, "price": 51.16 },
+  {
+    "id": 976,
+    "name": "Naphazoline Hydrochloride",
+    "votes": 57,
+    "price": 99.08
+  },
+  {
+    "id": 977,
+    "name": "CLARITHROMYCIN",
+    "sold": 63,
+    "votes": 66,
+    "price": 41.59
+  },
+  { "id": 978, "name": "Ibuprofen", "sold": 75, "votes": 55, "price": 48.91 },
+  {
+    "id": 979,
+    "name": "Levetiracetam",
+    "sold": 2,
+    "votes": 43,
+    "price": 77.46
+  },
+  {
+    "id": 980,
+    "name": "TITANIUM DIOXIDE, ZINC OXIDE and OCTINOXATE",
+    "sold": 10,
+    "price": 95.25
+  },
+  {
+    "id": 981,
+    "name": "Hepar, Human growth hormone, Pituitarum,",
+    "sold": 24,
+    "votes": 60,
+    "price": 79.61
+  },
+  {
+    "id": 982,
+    "name": "Dicloxacillin Sodium",
+    "sold": 41,
+    "votes": 81,
+    "price": 84.11
+  },
+  {
+    "id": 983,
+    "name": "PREDNISOLONE SODIUM PHOSPHATE",
+    "sold": 28,
+    "price": 92.5
+  },
+  {
+    "id": 984,
+    "name": "Albuterol Sulfate",
+    "sold": 4,
+    "votes": 13,
+    "price": 52.74
+  },
+  {
+    "id": 985,
+    "name": "Escitalopram",
+    "sold": 77,
+    "votes": 66,
+    "price": 48.44
+  },
+  { "id": 986, "name": "LACTULOSE", "sold": 52, "votes": 56, "price": 62.61 },
+  { "id": 987, "name": "Metaxalone", "sold": 65, "votes": 79, "price": 21.65 },
+  { "id": 988, "name": "OCTINOXATE", "sold": 98, "votes": 92, "price": 87.61 },
+  {
+    "id": 989,
+    "name": "Western Ragweed",
+    "sold": 88,
+    "votes": 10,
+    "price": 21.15
+  },
+  {
+    "id": 990,
+    "name": "Pseudoephedrine Hydrochloride",
+    "sold": 84,
+    "votes": 88,
+    "price": 91.05
+  },
+  {
+    "id": 991,
+    "name": "Glyburide and Metformin Hydrochloride",
+    "sold": 60,
+    "votes": 51,
+    "price": 81.03
+  },
+  {
+    "id": 992,
+    "name": "ALUMINUM CHLOROHYDRATE",
+    "sold": 81,
+    "votes": 1,
+    "price": 97.73
+  },
+  {
+    "id": 993,
+    "name": "Amlodipine and Benazepril Hydrochloride",
+    "sold": 53,
+    "votes": 63,
+    "price": 57.68
+  },
+  {
+    "id": 994,
+    "name": "HYDROCODONE BITARTRATE and ACETAMINOPHEN",
+    "sold": 8,
+    "votes": 62,
+    "price": 48.79
+  },
+  {
+    "id": 995,
+    "name": "METFORMIN HYDROCHLORIDE",
+    "sold": 27,
+    "votes": 20,
+    "price": 98.83
+  },
+  {
+    "id": 996,
+    "name": "Chondrus crispus, Fucus vesiculosus, Thyroidinum (Suis), Cadmium iodatum, Cadmium sulphuratum, Iodium, Uranium nitricum, Radium bromatium,",
+    "sold": 17,
+    "votes": 12,
+    "price": 76.43
+  },
+  {
+    "id": 997,
+    "name": "Berberis vulgarius, Agaricus muscarius, Urtica urens, Glandula suprarenalis, Spleen, Echinacea angustifolia, Atropinum sulphuricum, Ceanothus americanus,",
+    "sold": 44,
+    "votes": 23,
+    "price": 55.48
+  },
+  { "id": 998, "name": "Oxygen", "sold": 47, "votes": 71, "price": 84.3 },
+  {
+    "id": 999,
+    "name": "SULFUR, BENZOYL PEROXIDE, SALICYLIC ACID",
+    "sold": 38,
+    "votes": 94,
+    "price": 39.92
+  },
+  {
+    "id": 1000,
+    "name": "INTERLEUKIN-5",
+    "sold": 90,
+    "votes": 35,
+    "price": 54.61
+  }
+]

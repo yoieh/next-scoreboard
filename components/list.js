@@ -1,7 +1,11 @@
+import { connect } from "react-redux";
+
 import Item from "./item";
 import ItemHeader from "./itemHeader";
 
-export default class List extends React.Component {
+import { loadData } from "../store/menuReducer";
+
+class List extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -10,6 +14,10 @@ export default class List extends React.Component {
       priceSort: null,
       nameSort: null
     };
+  }
+
+  componentDidMount() {
+    this.props.loadData();
   }
 
   toogelSort = type =>
@@ -81,17 +89,11 @@ export default class List extends React.Component {
     }
   };
 
-  // handleCheck = e => {
-  //   const { list } = this.props;
-  //   const id = e.currentTarget.dataset.id;
-  //   const item = list[id];
-  // };
-
   render() {
-    const { list } = this.props;
+    const { list, loadingData } = this.props;
     const newList = Object.keys(list)
       .map((key, index) => ({
-        key: list[key].key,
+        id: list[key].id,
         name: list[key].name,
         sold: list[key].sold,
         votes: list[key].votes,
@@ -106,8 +108,8 @@ export default class List extends React.Component {
         {newList.length > 0 ? (
           newList.map((item, index) => (
             <Item
-              key={item.key}
-              keyName={item.key}
+              key={item.id}
+              keyName={item.id}
               number={index + 1}
               name={item.name}
               sold={item.sold}
@@ -115,6 +117,8 @@ export default class List extends React.Component {
               price={item.price | 0}
             />
           ))
+        ) : loadingData ? (
+          <span>Laddar data</span>
         ) : (
           <span>Listan är tom</span>
         )}
@@ -122,3 +126,17 @@ export default class List extends React.Component {
     );
   }
 }
+
+const mapStateToProps = (state, ownProps) => ({
+  list: state.menu.list,
+  loadingData: state.menu.loadingData
+});
+
+const mapDispatchToProps = (dispatch, ownProps) => ({
+  loadData: () => dispatch(loadData())
+});
+
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(List);

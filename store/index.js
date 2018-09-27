@@ -21,25 +21,14 @@ const bindMiddleware = middleware => {
 };
 
 function configureStore(initialState = {}, { isServer, req, debug, storeKey }) {
+  let rootReducer;
+
   if (isServer) {
-    const rootReducer = combineReducers({
+    rootReducer = combineReducers({
       // app: appReducer,
       menu: menuReducer
       // routing: routerReducer
     });
-
-    const store = createStore(
-      rootReducer,
-      initialState,
-      bindMiddleware([sagaMiddleware])
-    );
-
-    store.runSagaTask = () => {
-      store.sagaTask = sagaMiddleware.run(rootSaga);
-    };
-
-    store.runSagaTask();
-    return store;
   } else {
     const persistConfig = {
       key: "root",
@@ -50,27 +39,28 @@ function configureStore(initialState = {}, { isServer, req, debug, storeKey }) {
       // }
     };
 
-    const rootReducer = persistCombineReducers(persistConfig, {
+    rootReducer = persistCombineReducers(persistConfig, {
       menu: menuReducer
       // routing: routerReducer
     });
-
-    const store = createStore(
-      rootReducer,
-      initialState,
-      bindMiddleware([sagaMiddleware])
-    );
-
-    store.runSagaTask = () => {
-      store.sagaTask = sagaMiddleware.run(rootSaga);
-    };
-
-    store.runSagaTask();
-
-    store.__persistor = persistStore(store); // Nasty hack
-
-    return store;
   }
+
+  const store = createStore(
+    rootReducer,
+    initialState,
+    bindMiddleware([sagaMiddleware])
+  );
+
+  store.runSagaTask = () => {
+    store.sagaTask = sagaMiddleware.run(rootSaga);
+  };
+
+  store.runSagaTask();
+  if (!isServer) {
+    store.__persistor = persistStore(store); // Nasty hack
+  }
+
+  return store;
 }
 
 export default configureStore;

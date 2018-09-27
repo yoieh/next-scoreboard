@@ -8,7 +8,7 @@ export default class AddItemComponent extends Component {
     this.state = {
       newItem: {
         name: "",
-        key: "",
+        id: "",
         votes: 0,
         sold: 0,
         price: 0
@@ -28,7 +28,7 @@ export default class AddItemComponent extends Component {
     this.setState({
       newItem: {
         name: "",
-        key: "",
+        id: "",
         votes: 0,
         sold: 0,
         price: 0
@@ -52,18 +52,18 @@ export default class AddItemComponent extends Component {
     const { newItem } = this.state;
 
     e.preventDefault();
-    newItem.key =
-      newItem.key && newItem.key.length > 0 ? newItem.key : newItem.name;
+    newItem.id =
+      newItem.id && newItem.id.length > 0 ? newItem.id : newItem.name;
 
     newItem.name.length > 0 &&
-      newItem.key.length &&
+      newItem.id.length &&
       addItem(this.state.newItem) &&
       this.clearForm();
   };
 
   render() {
     const {
-      newItem: { name, key, votes, sold, price }
+      newItem: { name, id, votes, sold, price }
     } = this.state;
 
     return (
@@ -83,9 +83,9 @@ export default class AddItemComponent extends Component {
             onChange={this.handleChange}
           />
           <InputText
-            name="key"
-            title="Key"
-            value={key}
+            name="id"
+            title="id"
+            value={id}
             onChange={this.handleChange}
           />
           <InputNumber

@@ -13,8 +13,8 @@ const dashboard = props => (
 const mapStateToProps = (state, ownProps) => ({});
 
 const mapDispatchToProps = (dispatch, ownProps) => ({
-  addItem: ({ key, name, price, sold, votes }) =>
-    dispatch(addItem(key, name, sold, votes, price))
+  addItem: ({ id, name, price, sold, votes }) =>
+    dispatch(addItem(id, name, sold, votes, price))
 });
 
 export default connect(

@@ -1,23 +1,42 @@
 const initialState = {
+  loadingData: false,
   list: []
 };
 
 export const menuReducer = (state = initialState, action) => {
   switch (action.type) {
+    case "menu/FAILURE":
+      return {
+        ...state,
+        ...{ error: action.error },
+        loadingData: false
+      };
+    case "menu/LOAD_DATA_SUCCESS":
+      return {
+        ...state,
+        ...{ list: { ...state.list, ...action.data } },
+        loadingData: false
+      };
+    case "menu/LOAD_DATA":
+      return {
+        ...state,
+        ...{ list: { ...state.list, ...action.data } },
+        loadingData: true
+      };
     case "menu/ADD":
       return {
         ...state,
         list: {
           ...state.list,
-          [action.item.key]: {
-            ...state.list[action.item.key],
+          [action.item.id]: {
+            ...state.list[action.item.id],
             ...action.item
           }
         }
       };
 
     case "menu/REMOVE":
-      delete state.list[action.item.key];
+      delete state.list[action.item.id];
       return {
         ...state,
         list: {
@@ -29,9 +48,9 @@ export const menuReducer = (state = initialState, action) => {
         ...state,
         list: {
           ...state.list,
-          [action.item.key]: {
-            ...state.list[action.item.key],
-            votes: state.list[action.item.key] + action.item.amount
+          [action.item.id]: {
+            ...state.list[action.item.id],
+            votes: state.list[action.item.id] + action.item.amount
           }
         }
       };
@@ -40,9 +59,9 @@ export const menuReducer = (state = initialState, action) => {
         ...state,
         list: {
           ...state.list,
-          [action.item.key]: {
-            ...state.list[action.item.key],
-            votes: state.list[action.item.key] - action.item.amount
+          [action.item.id]: {
+            ...state.list[action.item.id],
+            votes: state.list[action.item.id] - action.item.amount
           }
         }
       };
@@ -51,9 +70,9 @@ export const menuReducer = (state = initialState, action) => {
         ...state,
         list: {
           ...state.list,
-          [action.item.key]: {
-            ...state.list[action.item.key],
-            sold: state.list[action.item.key] + action.item.amount
+          [action.item.id]: {
+            ...state.list[action.item.id],
+            sold: state.list[action.item.id] + action.item.amount
           }
         }
       };
@@ -62,27 +81,45 @@ export const menuReducer = (state = initialState, action) => {
   }
 };
 
-export const addItem = (key, name, sold = 0, votes = 0, price = 0) => ({
+export const addItem = (id, name, sold = 0, votes = 0, price = 0) => ({
   type: "menu/ADD",
-  item: { key, name, sold, votes, price }
+  item: { id, name, sold, votes, price }
 });
 
-export const removeItem = key => ({
+export const removeItem = id => ({
   type: "menu/REMOVE",
-  item: { key }
+  item: { id }
 });
 
-export const upVoteItem = key => ({
+export const upVoteItem = id => ({
   type: "menu/UP_VOTE",
-  item: { key, amount: 1 }
+  item: { id, amount: 1 }
 });
 
-export const downVoteItem = key => ({
+export const downVoteItem = id => ({
   type: "menu/DOWN_VOTE",
-  item: { key, amount: 1 }
+  item: { id, amount: 1 }
 });
 
-export const soldItem = (key, amount) => ({
+export const soldItem = (id, amount) => ({
   type: "menu/SOLD",
-  item: { key, amount }
+  item: { id, amount }
 });
+
+export function loadData() {
+  return { type: "menu/LOAD_DATA" };
+}
+
+export function loadDataSuccess(data) {
+  return {
+    type: "menu/LOAD_DATA_SUCCESS",
+    data
+  };
+}
+
+export function failure(error) {
+  return {
+    type: "menu/FAILURE",
+    error
+  };
+}
