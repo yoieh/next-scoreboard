@@ -9,7 +9,7 @@ class Scoreboard extends React.Component {
     return (
       <Layout>
         <h2 className="bg-danger">List</h2>
-        <List />
+        <List threshold={0.8} />
       </Layout>
     );
   }

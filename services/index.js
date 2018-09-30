@@ -9,5 +9,5 @@ const normalizedData = normalize(dbData, itemListSchema);
 
 export const getData = async () =>
   await new Promise(resolve =>
-    setTimeout(() => resolve(normalizedData.entities.items), 5000)
+    setTimeout(() => resolve(normalizedData.entities.items), 3000)
   );

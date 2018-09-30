@@ -8,13 +8,9 @@ import routes from "../routes";
 
 import stylesheet from "../styles/index.scss";
 
-Router.onRouteChangeStart = url => {
-  NProgress.start();
-};
+Router.onRouteChangeStart = url => NProgress.start();
 
-Router.onRouteChangeComplete = () => {
-  NProgress.done();
-};
+Router.onRouteChangeComplete = () => NProgress.done();
 
 Router.onRouteChangeError = () => NProgress.done();
 

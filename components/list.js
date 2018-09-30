@@ -12,12 +12,29 @@ class List extends React.Component {
       voteSort: "DESC",
       soldSort: null,
       priceSort: null,
-      nameSort: null
+      nameSort: null,
+      amount: 15
     };
   }
 
+  onScroll = () => {
+    const { threshold } = this.props;
+    const { amount } = this.state;
+    if (
+      window.innerHeight + window.scrollY >=
+      document.body.offsetHeight * threshold
+    ) {
+      this.setState({ amount: amount + 15 });
+    }
+  };
+
   componentDidMount() {
     this.props.loadData();
+    window.addEventListener("scroll", this.onScroll, false);
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener("scroll", this.onScroll, false);
   }
 
   toogelSort = type =>
@@ -90,6 +107,7 @@ class List extends React.Component {
   };
 
   render() {
+    const { amount } = this.state;
     const { list, loadingData } = this.props;
     const newList = Object.keys(list)
       .map((key, index) => ({
@@ -99,12 +117,12 @@ class List extends React.Component {
         votes: list[key].votes,
         price: list[key].price
       }))
-      .sort(this.sort);
+      .sort(this.sort)
+      .slice(0, amount);
 
     return (
       <div>
         <ItemHeader sort={this.toogelSort} />
-
         {newList.length > 0 ? (
           newList.map((item, index) => (
             <Item
