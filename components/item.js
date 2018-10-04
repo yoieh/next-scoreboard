@@ -2,7 +2,8 @@
 // import Link from "next/link";
 import { withRouter } from "next/router";
 
-import { Link, Router } from "../router";
+// import { Link } from "../router";
+import Link from "../components/link";
 
 const ItemsStyle = {
   flex: "0.1 0",

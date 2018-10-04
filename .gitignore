@@ -1,6 +1,7 @@
 # Build Output
 dist
 .next
+bundles
 .vscode
 .DS_Store
 

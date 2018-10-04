@@ -27,7 +27,6 @@ class Item extends React.Component {
         query: { id }
       }
     } = this.props;
-
     return (
       <Layout>
         <h2>{`Item: ${item.name}`}</h2>

@@ -4,6 +4,7 @@ import { persistCombineReducers } from "redux-persist";
 // import localforage from "localforage";
 import storage from "redux-persist/lib/storage";
 import { persistStore } from "redux-persist";
+import { LocalizeProvider, localizeReducer } from "react-localize-redux";
 
 // import rootReducer, { exampleInitialState } from "./reducer";
 import rootSaga from "./saga";
@@ -26,7 +27,8 @@ function configureStore(initialState = {}, { isServer, req, debug, storeKey }) {
   if (isServer) {
     rootReducer = combineReducers({
       // app: appReducer,
-      menu: menuReducer
+      menu: menuReducer,
+      localize: localizeReducer
       // routing: routerReducer
     });
   } else {
@@ -40,7 +42,8 @@ function configureStore(initialState = {}, { isServer, req, debug, storeKey }) {
     };
 
     rootReducer = persistCombineReducers(persistConfig, {
-      menu: menuReducer
+      menu: menuReducer,
+      localize: localizeReducer
       // routing: routerReducer
     });
   }
