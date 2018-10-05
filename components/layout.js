@@ -41,7 +41,7 @@ class Layout extends React.Component {
 
         <div className="container-fluid" style={{ height: "100%" }}>
           <nav>
-            {routes.map((route, i) => (
+            {/* {routes.map((route, i) => (
               <span key={route.page}>
                 <span className="p-1">
                   <Link route={route.page} params={{ lang }}>
@@ -50,7 +50,7 @@ class Layout extends React.Component {
                 </span>
                 {i !== routes.length - 1 ? <span>{`|`}</span> : null}
               </span>
-            ))}
+            ))} */}
           </nav>
           {children}
         </div>
